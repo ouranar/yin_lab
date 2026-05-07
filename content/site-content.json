@@ -1,0 +1,4131 @@
+{
+  "settings": {
+    "labName": "Artificial Intelligence in Education Lab",
+    "shortName": "AIE Lab",
+    "description": "",
+    "footerNote": "Advancing the future of teaching and learning through intelligent education, digital learning, mobile learning, and learning analytics.",
+    "adminLabel": "管理",
+    "newsArchiveMonths": 1,
+    "minimumNewsItems": 5
+  },
+  "navigation": [
+    {
+      "label": "首页",
+      "href": "/"
+    },
+    {
+      "label": "关于",
+      "href": "/about"
+    },
+    {
+      "label": "新闻",
+      "href": "/news"
+    },
+    {
+      "label": "成员",
+      "href": "/members"
+    },
+    {
+      "label": "研究内容",
+      "href": "/research"
+    },
+    {
+      "label": "出版物",
+      "href": "/publications"
+    },
+    {
+      "label": "招募",
+      "href": "/recruitment"
+    },
+    {
+      "label": "联系方式",
+      "href": "/contact"
+    }
+  ],
+  "home": {
+    "hero": {
+      "eyebrow": "AIE-Lab",
+      "title": "Yin-Lab：Artificial Intelligence in Education  Lab",
+      "subtitle": "人工智能教育（AIE）实验室致力于利用大数据和人工智能的力量，开展研究与开发，以实现先进的教育环境。我们与日本国内外的大学合作，围绕多种教育环境开展研究，包括学校教育、农业、医学、健康护理以及信息领域等。",
+      "description": "我们正在研究针对从学习系统、课程注册系统以及各类传感器中收集到的大数据的处理基础设施，以及这些数据在促进学习与教育改进中的应用。欢迎对利用人工智能和信息通信技术开展教育支持感兴趣的学生加入。",
+      "primaryAction": {
+        "label": "About us",
+        "href": "/about"
+      },
+      "secondaryAction": {
+        "label": "Research",
+        "href": "/research"
+      }
+    },
+    "activities": [
+      {
+        "id": "home-activity-1",
+        "date": "2026-03-28",
+        "label": "讲座",
+        "title": "实验室完成春季开放日交流活动",
+        "summary": "围绕学习分析、智能辅学与研究协作进行了现场展示。",
+        "href": "/news"
+      },
+      {
+        "id": "home-activity-2",
+        "date": "2026-03-17",
+        "label": "新闻",
+        "title": "团队论文入选教育技术方向会议",
+        "summary": "展示实验室在证据链建模与教学设计方面的阶段性进展。",
+        "href": "/publications"
+      },
+      {
+        "id": "home-activity-3",
+        "date": "2026-03-05",
+        "label": "招募",
+        "title": "本年度研究助理与研究生招募启动",
+        "summary": "欢迎关注教育技术、数据分析与人机交互方向的同学加入。",
+        "href": "/recruitment"
+      },
+      {
+        "id": "home-activity-4",
+        "date": "2026-02-26",
+        "label": "合作",
+        "title": "与区域教育机构启动联合研究计划",
+        "summary": "围绕真实教学场景的数据采集、评价与反馈展开协作。",
+        "href": "/research"
+      }
+    ],
+    "intro": {
+      "title": "实验室概览",
+      "description": "",
+      "buttonLabel": "了解更多",
+      "href": "/about"
+    },
+    "newsLead": {
+      "title": "近期新闻",
+      "description": "",
+      "buttonLabel": "查看新闻",
+      "href": "/news"
+    },
+    "membersLead": {
+      "title": "团队成员",
+      "description": "",
+      "buttonLabel": "查看成员",
+      "href": "/members"
+    },
+    "recruitmentLead": {
+      "title": "招募信息",
+      "description": "欢迎对真实教育场景研究有兴趣的同学联系。",
+      "buttonLabel": "查看招募",
+      "href": "/recruitment"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About The Lab",
+      "title": "智能教育与学习支持研究",
+      "subtitle": "面向知识传递、启发与创造，探索以ICT、学习分析与真实教育场景实践为基础的智能信息环境",
+      "description": ""
+    },
+    "introTitle": "实验室介绍",
+    "introText": [
+      "本实验室围绕“如何构建促进知识传递、启发与创造的智能信息环境”开展研究，持续引入新的教育方法、教材与技术，并基于科学证据不断优化教育与学习支持方式。",
+      "我们将教育与学习视为信息交互过程，利用ICT发现教学中的实际问题，提出解决方案，开发真正服务教育现场的系统，并通过真实场景应用验证其有效性。",
+      "在移动与泛在学习环境研究中，我们关注学习过程与学习情境的融合，开发支持日语敬语学习的系统，为留学生提供更贴合实际需求的语言学习支持。",
+      "在社会化学习研究中，我们基于SNS与协作学习理念，探索学习者之间的互助机制，研究如何匹配合适的学习伙伴，并推荐有效的求助路径。",
+      "在研究动向调查支持研究中，我们运用文本挖掘技术构建学习型搜索引擎，帮助学习者更高效地开展研究趋势分析，并提升信息检索过程中的学习效果。",
+      "在教育大数据研究中，我们结合真实课程中的学习日志数据，分析学习行为与学习成效之间的关系，为理解高效学习模式与改进教学设计提供数据支持。"
+    ],
+    "introHighlights": [
+      {
+        "id": "about-highlight-1",
+        "title": "AIE Research Lab",
+        "value": "以教育大数据与人工智能驱动未来教育",
+        "caption": "我们围绕教育大数据、人工智能与学习支持技术开展研究，面向学校教育以及农业、医疗、健康、信息等多元场景，探索更智能、更高效的教育环境。同时积极推进与国内外高校的合作研究，推动教育创新的跨领域发展。"
+      },
+      {
+        "id": "about-highlight-2",
+        "title": "Educational Technology",
+        "value": "让教育更高效",
+        "caption": "教育工学关注如何通过科学的方法与技术手段，将提升教育效果与效率的理念真正落地。它不仅强调技术开发，更强调将有效的教育改进方案系统化、方法化，形成能够在真实教学中产生价值的实践体系。"
+      },
+      {
+        "id": "about-highlight-3",
+        "title": "CSEL",
+        "value": "从信息科学视角重构教与学",
+        "caption": "CSEL以信息科学为基础，将教育与学习理解为信息交互过程，利用ICT技术发现问题、提出方法，并构建系统验证成效。我们不仅关注系统设计与开发，更重视真实教育现场中的应用实践，致力于打造促进知识传递、启发与创造的智能学习环境。"
+      }
+    ],
+    "timelineTitle": "发展经历",
+    "timelineSubtitle": "",
+    "timeline": [
+      {
+        "id": "timeline-1",
+        "date": "2003",
+        "title": "移动与泛在学习",
+        "description": "基于移动技术构建情境化学习环境，探索学习支持的新模式。",
+        "image": "/uploads/timeline/-2026-04-10-121910-1775794799546.png"
+      },
+      {
+        "id": "timeline-2",
+        "date": "2008",
+        "title": "社会化学习",
+        "description": "结合SNS与协作学习理念，推动学习者之间的互动、互助与共同成长",
+        "image": "/uploads/timeline/-2026-04-10-121915-1775794807678.png"
+      },
+      {
+        "id": "timeline-3",
+        "date": "2011",
+        "title": "教育数据挖掘与研究动向调查",
+        "description": "运用数据挖掘技术支持研究趋势分析与学习过程中的知识发现。",
+        "image": "/uploads/timeline/-2026-04-10-121928-1775794816802.png"
+      },
+      {
+        "id": "timeline-4",
+        "date": "2014",
+        "title": "教育数据挖掘与教育大数据应用",
+        "description": "面向教育大数据开展分析与应用研究，服务教学优化与智能教育发展。",
+        "image": "/uploads/timeline/-2026-04-10-121923-1775794824110.png"
+      }
+    ],
+    "goalsTitle": "发展目标",
+    "goalsStatement": "",
+    "goalsText": [
+      "本实验室面向智能教育的发展需求，致力于融合教育大数据、人工智能与信息技术，构建更智能、更高效、更具适应性的教育与学习支持环境。",
+      "我们希望从知识传递、学习支持、启发发现与创新创造的整体过程出发，持续探索教育活动中的关键问题，并通过数据分析、系统设计与技术研发提出切实可行的解决方案。",
+      "基于移动学习、社会化学习、教育数据挖掘与教育大数据研究的长期积累，我们将进一步推动教育研究从经验驱动走向数据驱动，从工具支持走向智能支持，从局部优化走向整体改进。",
+      "我们重视技术创新，更重视真实教育场景中的应用与验证，致力于让研究成果真正服务于学校教育以及农业、医疗、健康、信息等多样化学习与培训场景。",
+      "同时，实验室将持续推进跨学科融合与国际合作，连接教育工学、信息科学、学习分析与人工智能研究，形成开放协同、面向未来的研究与创新生态。"
+    ],
+    "goalsCards": [
+      {
+        "id": "goal-card-1",
+        "title": "目标一",
+        "value": "让数据读懂学习",
+        "caption": "以教育大数据与学习分析为基础，深入挖掘教学与学习过程中的规律，为学习支持、教学改进与教育决策提供更加精准的数据依据。"
+      },
+      {
+        "id": "goal-card-2",
+        "title": "目标二",
+        "value": "让智能走进教育",
+        "caption": "结合人工智能、ICT与系统研发能力，构建能够真正服务教学现场的智能教育环境，推动教育支持从数字化走向智能化。"
+      },
+      {
+        "id": "goal-card-3",
+        "title": "目标三",
+        "value": "让研究连接未来",
+        "caption": "面向多元教育场景与国际合作需求，推动教育工学、信息科学与跨领域应用的深度融合，形成具有实践价值与持续影响力的创新研究体系。"
+      }
+    ],
+    "introImage": "/uploads/about/chatgpt-image-2026-4-10-11-58-19-1775793672216.png",
+    "introImageAlt": "实验室介绍配图"
+  },
+  "news": {
+    "hero": {
+      "eyebrow": "News",
+      "title": "实验室动态",
+      "subtitle": "新闻、讲座、活动与合作",
+      "description": "前台展示与后台维护共享同一份新闻数据。"
+    },
+    "archiveTitle": "历史归档",
+    "archiveSubtitle": "已归档新闻会保留在这里，并同步导出到服务器本地文件。",
+    "items": [
+      {
+        "id": "news-1",
+        "slug": "spring-open-day",
+        "label": "活动",
+        "title": "实验室春季开放日顺利举行",
+        "date": "2026-03-28",
+        "summary": "围绕研究方向、工具展示与团队交流开放参观与问答。",
+        "content": [
+          "本次开放日面向校内外学生与合作伙伴展开，集中展示了实验室当前的研究方向、教学工具与项目案例。",
+          "活动现场也进行了成员交流、项目介绍和招募咨询，为后续合作和报名提供了面对面的沟通机会。"
+        ],
+        "image": "/uploads/news/chatgpt-image-2026-4-10-12-36-55-1775795831260.png",
+        "relatedLink": "https://example.com",
+        "pinned": true,
+        "visible": true
+      },
+      {
+        "id": "news-2",
+        "slug": "paper-accepted-edtech",
+        "label": "成果",
+        "title": "团队论文被教育技术会议录用",
+        "date": "2026-03-17",
+        "summary": "论文聚焦循证学习中的多源数据组织与反馈呈现。",
+        "content": [
+          "该论文围绕学习证据链的组织方式展开，讨论了如何在真实教学中连接过程数据、评价信息和反馈策略。",
+          "成果将进一步服务于实验室在教学支持平台与研究工具上的持续迭代。"
+        ],
+        "image": "/uploads/news/chatgpt-image-2026-4-10-12-39-15-1775796014273.png",
+        "relatedLink": "",
+        "pinned": false,
+        "visible": true
+      },
+      {
+        "id": "news-3",
+        "slug": "new-collaboration-program",
+        "label": "合作",
+        "title": "实验室启动区域合作研究计划",
+        "date": "2026-02-26",
+        "summary": "以真实课堂与项目任务为基础探索新的合作模式。",
+        "content": [
+          "实验室将与合作伙伴围绕教育数据治理、课堂反馈与工具部署展开联合研究。",
+          "该计划将持续沉淀用于研究展示、论文产出与服务支持的协作成果。"
+        ],
+        "image": "/uploads/news/chatgpt-image-2026-4-10-12-40-27-1775796052449.png",
+        "relatedLink": "",
+        "pinned": false,
+        "visible": true
+      },
+      {
+        "id": "news-4",
+        "slug": "guest-talk-january",
+        "label": "讲座",
+        "title": "邀请报告聚焦学习分析中的证据设计",
+        "date": "2026-01-12",
+        "summary": "围绕教学证据结构、工具链与场景化验证展开学术交流。",
+        "content": [
+          "报告分享了学习分析研究中常见的证据组织方式，并讨论了如何让研究更贴近具体教学场景。",
+          "现场围绕课程实施、数据标注和工具可解释性进行了讨论。"
+        ],
+        "image": "/uploads/news/chatgpt-image-2026-4-10-12-42-34-1775796165324.png",
+        "relatedLink": "",
+        "pinned": false,
+        "visible": true
+      },
+      {
+        "id": "news-5",
+        "slug": "winter-seminar",
+        "label": "研讨",
+        "title": "冬季研讨会完成阶段总结",
+        "date": "2025-12-05",
+        "summary": "团队梳理研究目标与下一阶段项目分工。",
+        "content": [
+          "研讨会总结了实验室在过去一年中的主要研究进展，并对下一阶段的方向进行了分工。",
+          "会议同时回顾了站点结构、内容归档和对外展示策略。"
+        ],
+        "image": "/uploads/news/chatgpt-image-2026-4-10-12-49-40-1775796598925.png",
+        "relatedLink": "",
+        "pinned": false,
+        "visible": true
+      }
+    ],
+    "archivedItems": []
+  },
+  "members": {
+    "hero": {
+      "eyebrow": "Members",
+      "title": "以持续合作组织团队",
+      "subtitle": "",
+      "description": ""
+    },
+    "groups": [
+      {
+        "id": "faculty",
+        "title": "教职员工",
+        "items": [
+          {
+            "id": "member-1",
+            "slug": "chengjiu-yin",
+            "name": "殷 成久/Chengjiu YIN",
+            "title": "负责人/教授",
+            "image": "/uploads/members/-2026-04-10-124422-1775796274867.png",
+            "birthDate": "",
+            "hometown": "",
+            "researchAreas": [
+              "学习分析",
+              "教育技术设计"
+            ],
+            "email": "yin@lion.kobe-u.ac.jp",
+            "phone": "",
+            "profileLink": "https://example.com/fangxiao",
+            "summary": "神戸大学情報基盤中心 副教授\n大学院系统情報学研究科(兼任)\n博士（工学）",
+            "visible": true
+          },
+          {
+            "id": "member-2",
+            "slug": "lin-yan",
+            "name": "周娟/Juan ZHOU",
+            "title": "",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "",
+            "researchAreas": [
+              "教学平台",
+              "人机交互",
+              "课堂反馈"
+            ],
+            "email": "",
+            "phone": "",
+            "profileLink": "",
+            "summary": "关注面向课堂场景的工具设计与交互研究。",
+            "visible": true
+          },
+          {
+            "id": "member-1775750626605-d3f18",
+            "slug": "faculty-3",
+            "name": "赵 福政/ Fuzheng ZHAO",
+            "title": "",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "",
+            "researchAreas": [],
+            "email": "",
+            "phone": "",
+            "profileLink": "",
+            "summary": "",
+            "visible": true
+          },
+          {
+            "id": "member-1775750628818-940ed",
+            "slug": "faculty-4",
+            "name": "白昱/Yu Bai",
+            "title": "",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "",
+            "researchAreas": [],
+            "email": "",
+            "phone": "",
+            "profileLink": "",
+            "summary": "东北师范大学 老师",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "students",
+        "title": "学生",
+        "items": [
+          {
+            "id": "member-3",
+            "slug": "zhou-qi",
+            "name": "王 文豪/Wenhao WANG",
+            "title": "博士研究生",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "南京",
+            "researchAreas": [
+              "学习数据分析",
+              "可视化",
+              "教学反馈"
+            ],
+            "email": "",
+            "phone": "",
+            "profileLink": "",
+            "summary": "主要负责研究项目中的数据治理与分析工作。",
+            "visible": true
+          },
+          {
+            "id": "member-4",
+            "slug": "chen-yue",
+            "name": "何孟良/Mengliang He",
+            "title": "博士研究生",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "苏州",
+            "researchAreas": [
+              "内容组织",
+              "课程支持",
+              "产品原型"
+            ],
+            "email": "chenyue@example.edu.cn",
+            "phone": "",
+            "profileLink": "",
+            "summary": "参与课程资源结构化与教学支持工具开发。",
+            "visible": true
+          },
+          {
+            "id": "member-1775750644840-9bda0",
+            "slug": "students-3",
+            "name": "周艺舟/Yizhou Zhou",
+            "title": "博士研究生",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "",
+            "researchAreas": [],
+            "email": "",
+            "phone": "",
+            "profileLink": "",
+            "summary": "",
+            "visible": true
+          },
+          {
+            "id": "member-1775750648160-e7d3b",
+            "slug": "students-6",
+            "name": "吕锐/Rui LV",
+            "title": "博士研究生",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "中国甘肃",
+            "researchAreas": [],
+            "email": "Lvr2021@outlook.com",
+            "phone": "",
+            "profileLink": "",
+            "summary": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "collaborators",
+        "title": "合作者",
+        "items": [
+          {
+            "id": "member-5",
+            "slug": "li-ming",
+            "name": "江波/Bo Jiang",
+            "title": "教授",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "安徽",
+            "researchAreas": [
+              "课程评价",
+              "项目协作"
+            ],
+            "email": "liming@example.edu.cn",
+            "phone": "",
+            "profileLink": "",
+            "summary": "华东师范大学 上海智能教育研究院 副院长\n教授",
+            "visible": true
+          },
+          {
+            "id": "member-1775750650140-e490c",
+            "slug": "collaborators-2",
+            "name": "",
+            "title": "",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "",
+            "researchAreas": [],
+            "email": "",
+            "phone": "",
+            "profileLink": "",
+            "summary": "",
+            "visible": false
+          },
+          {
+            "id": "member-1775750651812-1cf40",
+            "slug": "collaborators-3",
+            "name": "",
+            "title": "",
+            "image": "/graphics/placeholder.svg",
+            "birthDate": "",
+            "hometown": "",
+            "researchAreas": [],
+            "email": "",
+            "phone": "",
+            "profileLink": "",
+            "summary": "",
+            "visible": false
+          }
+        ]
+      }
+    ]
+  },
+  "research": {
+    "hero": {
+      "eyebrow": "Research",
+      "title": "围绕方向与项目组织研究内容",
+      "subtitle": "研究方向 / 研究项目",
+      "description": ""
+    },
+    "directionsTitle": "研究方向",
+    "projectsTitle": "研究项目",
+    "directions": [
+      {
+        "id": "direction-1",
+        "title": "学习分析研究",
+        "summary": "聚焦学习过程中的行为数据采集、建模与解释，探索数据驱动的学习支持与教学改进路径",
+        "tags": [
+          "学习分析",
+          "证据链",
+          "反馈设计"
+        ],
+        "image": "/uploads/research/--1776774033394.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "direction-2",
+        "title": "教育机器人",
+        "summary": "围绕机器人支持下的学习与教学活动展开研究，探讨机器人作为交互媒介在知识传授、技能训练与学习动机激发中的作用机制。",
+        "tags": [
+          "机器人",
+          "交互教学活动"
+        ],
+        "image": "/uploads/research/--1776774039130.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "direction-1776773321575-6ce70",
+        "title": "利用 AR/VR 构建教育环境",
+        "summary": "关注增强现实与虚拟现实技术在教育场景中的设计、应用与评价，致力于构建更具沉浸感、交互性与情境性的学习环境。",
+        "tags": [
+          "增强现实",
+          "教育场景",
+          "学习环境构建"
+        ],
+        "image": "/uploads/research/--1776774045344.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "direction-1776773322713-bae3b",
+        "title": "利用健康传感器促进健康提升",
+        "summary": "依托健康传感器与多模态感知技术，研究健康促进、行为监测与训练支持等相关问题，推动教育技术在健康与医学领域中的延伸应用。",
+        "tags": [
+          "健康促进",
+          "行为检测",
+          "训练支持"
+        ],
+        "image": "/uploads/research/--1776774050346.png",
+        "link": "",
+        "visible": true
+      }
+    ],
+    "projects": [
+      {
+        "id": "project-1",
+        "title": "Milkyway Search Engine",
+        "summary": "在研究中，首先要对所研究领域的相关研究进行调查，把握研究动向。刚开始做研究的学生，对所研究领域的相关知识不足，这是一项很严肃的工作。此外，在现代科技发展日新月异的时代，有必要对新的未知领域的掌握。但即使是熟练的研究者也难以掌握该研究领域的研究动向。因此，如何在研究中边调查边学习成为研究活动中的一项重要任务。在本研究中，我们提出了利用文本挖掘技术的“通过调查来学习”的学习支援环境。",
+        "tags": [],
+        "image": "/uploads/projects/-2026-04-10-125058-1775796667520.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "project-2",
+        "title": "SONKULE",
+        "summary": "在本研究中，我们提出了一项利用SNS，友人间互相协助学习的无所不在的学习支援服务。该项服务的主要特点如下。1）找到可以解决问题的人，推荐合适的路线。通过相互帮助扩大友谊，支持分享和创造知识。2）提供知识意识(Knowledge Awareness)，促进学习。3）基于以学习者为中心的学习设计，它不仅可以随时随地地使用，还可以在适当的时间适当的地点提供合适的教材，人和解决方案。学习者们可以通过知识意识，相互合作，解决问题和相互理解。该服务将应用于使用SNS的外语学习支持环境（LANGEL）。",
+        "tags": [],
+        "image": "/uploads/projects/-2026-04-10-125136-1775796709648.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "project-1775796780231-2e8d1",
+        "title": "QUIZ",
+        "summary": "这是使用手机的测试问题和总结系统。在外语学习中，对不同文化的理解是必不可少的。了解外国文化可以使你对该国家感兴趣，并促使你对外语学习的动力。 在本文中，我们将构筑一个使用手机的测试问题和总结系统，并系统的开发和评价进行描述。 本系统的目的是通过关于正在学习某外语的该外语国家的问题进行测试，来加深对所学习的外语领域的文化和环境的了解。",
+        "tags": [],
+        "image": "/uploads/projects/-2026-04-10-125321-1775796814961.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "project-1775796817807-2528e",
+        "title": "LANGEL",
+        "summary": "为支持外语学习的SNS环境的构筑LANGEL(LANguaGE Learning SNS)。具体而言，例如“学习汉语的日本人”和“学习日语的中国人”可以相互教导和纠错，或者学习相同语言的人们可以进行实时对话。",
+        "tags": [],
+        "image": "/uploads/projects/-2026-04-10-125401-1775796852574.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "project-1775796854588-197ea",
+        "title": "Learning by Searching",
+        "summary": "我们通过各种方法来学习并获取知识。在本研究中，我们提出并进行理论化了一种名为“Learning by Searching”(通过调查来学习)的新的学习方法。例如，“Learning by Doing”（通过实践来学习），“Learning by Writing”（通过写作来学习）等，这些方法的学习效果已被证实。在本文中提倡的式一种名为“Learning by Searching”（通过调查来学习）的新的学习方法。如果有不明白的单词，可以在字典中查询到。但随着信息通信技术和信息处理技术的发展，无论何时，何地，何人都可以使用互联网进行查询。如果学习者有任何想想要知道的东西，可以立即使用Google或Yahoo等的搜索引擎进行查询。通过查询来获取知识。这就是“Learning by Searching”，即通过查询来学习。这种在线搜索式我们学习过程中的一部分，也是学习者必备的技能。",
+        "tags": [],
+        "image": "/uploads/projects/-2026-04-10-125446-1775796899892.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "project-1775796946505-30840",
+        "title": "JAPELAS",
+        "summary": "敬体表达包含礼貌用语，尊敬语，谦让语等。与对话人的关系和对话的情况而变化。特别是对于学习敬体表达的外国人来说是困难的。这就是以学习日语的敬体表达作为对象的Ubiquitous-Learning系统，主要是为了帮助学习日语的外国人，在适当的场合和适当的时间，能够说出适当的日语敬体。",
+        "tags": [],
+        "image": "/uploads/projects/japelas-1775796980501.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "project-1775796983008-a4f0f",
+        "title": "SPSML (Participatory Simulation Framework )",
+        "summary": "在传统的课堂上，是老师教授学生的单向教学方式。并不能说是达到了学生自己主动学习的授课方式。学生并不是被动的，为了能够增强体现能动性的学习方式，本研究提出了一种利用Scaffolding的移动参与式的模拟框架的方案。 在SPSML中使用了Experiential learning模型。使用SPSML框架时，学生可以有以下的体验。1）通过与现实世界的人们的交流来理解概念性的知识。2）通过移动设备上的微观世界来扮演不同的角色，并使用基于SPSML的利用AR(Augmented Reality)的学习表达方式的算法学习系统，同时考察SPSML框架的有效性。根据实验结果，可以知道利用SPSML的学生的学习效果很明显。另外，可以知道通过对SPSML的体验学习，加强了学习的意愿。",
+        "tags": [],
+        "image": "/uploads/projects/spsml-1775797010039.png",
+        "link": "",
+        "visible": true
+      },
+      {
+        "id": "project-1775797011519-7e37d",
+        "title": "教育ビッグデータ",
+        "summary": "在2020年度，计划把数字教育引入中小学教育中。在这种情况下，在全国的学校中有关于数字教程的各种活动记录将会被每日收集，并会形成大量数据。 在本研究中，导入Moodle, e-pub（教材发信系统e-books）学习支持系统，并收集学生的学习记录。在本研究中，旨在收集和分析学生的学习记录，并反馈在大学的教学中。然后通过开发实用的系统和应用程序，来支持和改善教学。大学教育的改善将成为我们未来研究的结果。",
+        "tags": [],
+        "image": "/uploads/projects/learningstyle-1775797028784.png",
+        "link": "",
+        "visible": true
+      }
+    ]
+  },
+  "publications": {
+    "hero": {
+      "eyebrow": "研究成果",
+      "title": "出版物",
+      "subtitle": "按成果类别整理展示",
+      "description": ""
+    },
+    "groups": [
+      {
+        "id": "journal-papers",
+        "title": "原著论文",
+        "icon": "刊",
+        "summary": "期刊论文与已录用成果",
+        "items": [
+          {
+            "id": "journal-papers-1",
+            "title": "Fuzheng Zhao, Gwo-jen Hwang, Chengjiu YIN (2027) ‘Learning Success in the Age of Generative AI: A New Paradigm and Theoretical Model for Education Technology’, Int. J. Mobile Learning and Organisation, Vol. 21, No. 2, pp.xxx–xxx.",
+            "subtitle": "",
+            "meta": "2026",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-2",
+            "title": "Shi, W., Sakaue, Y., Yamashita, Y., Takei, R., Yin, C., & Okada, Y. (2026). Application of interactive 3D content in quality Japanese history education and intangible cultural heritage preservation. Educational Technology & Society, 29(1), 268–290.",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "https://doi.org/10.30191/ETS.202601_29(1).SP04",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-3",
+            "title": "Liu, H., Shimada, A., Minematsu, T., & Yin, C. (2025). Building a scaffolding framework with field environment digest system in high school agricultural education. Interactive Learning Environments, 1–18.",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2025.2591862",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-4",
+            "title": "Yang, C. C. Y., & Yin, C. (2026). Uncovering self-regulated learning strategies: An analysis of behavioral patterns, learning styles, and outcomes using digital textbook logs. Educational Technology & Society, 29(4), 195–207.",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "https://doi.org/10.30191/ETS.202610_29(4).RP12",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-5",
+            "title": "Wenhao Wang, Gwo-Jen Hwang, Asako Ohno, Etsuko Kumamoto, Hui-Chun Chu, Ching-Yi Chang, Chengjiu Yin, A Page Jump Recommendations Plugin to Encourage Backtracking Behaviors, Educational Technology & Society, 29(4), 145–158. (※Q1)",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "https://doi.org/10.30191/ETS.202610_29(4).RP09",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-6",
+            "title": "Wen-Song Su, Gwo-Jen Hwang, Chengjiu Yin and Ching-Yi Chang, (2025). Exploring gender and educational background effects on 21st-century competencies in robot-integrated STEM education: The role of learning attitudes and satisfaction. Educational Technology & Society, 28(4). (※Q1)",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "https://doi.org/10.30191/ETS.202510_28(4).SP11",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-7",
+            "title": "Chang, C.-Y., Lin, H.-C., Yin, C., & Yang, K.-H. (2025). Generative AI-assisted reflective writing for improving students’ higher order thinking: Evidence from quantitative and epistemic network analysis. Educational Technology & Society, 28(1), 270-285. (※Q1)",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "https://doi.org/10.30191/ETS.202501_28(1",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-8",
+            "title": "Bai, Y., Zhao, F., Kumamoto, E., & Yin, C. (2024). Precisely identifying and mitigating shallow reading behaviors through online reading data: exploring quantitative reading behavior methods and precise behavioral intervention. Interactive Learning Environments, 1–15.",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2024.2372846(※Q1",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-9",
+            "title": "Juan Zhou, Hideyuki Takada, Chengjiu Yin, \"Analysis of Reading Behavior Based on Students’ Cognitive Styles and Learning Styles,\" Journal of Internet Technology, vol. 25, no. 3 , pp. 425-433, May. 2024.",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-10",
+            "title": "Juan Zhou, Siqi Wang, Ling Xu, Chengjiu Yin, Using the grouping function of machine learning algorithm to reduce the influence of information avoidance tendency during reading behavior. Smart Learn. Environ. 10, 62 (2023).",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "https://doi.org/10.1186/s40561-023-00281-7",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-11",
+            "title": "Bo Jiang, Yuang Wei, Meijun Gu & Chengjiu Yin (2023) Understanding students’ backtracking behaviors in digital textbooks: a data-driven perspective, Interactive Learning Environments, 32(10): 6717-6734 (2024). DOI: 10.1080/10494820.2023.2280964",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-12",
+            "title": "Zhao, F., Liu, G. Z., Zhou, J., & Yin, C. (2023). A Learning Analytics Framework Based on Human-centered Artificial Intelligence for Identifying the Optimal Learning Strategy to Intervene Learning Behavior. Educational Technology & Society, 26(1), 132–146.",
+            "subtitle": "",
+            "meta": "2023",
+            "summary": "",
+            "link": "https://doi.org/10.30191/ETS.202301_26(1).0010",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-13",
+            "title": "Yuxi Jin, Ping Li, Wenxiao Wang, Suiyun Zhang, Di Lin & Chengjiu Yin. (2023). GAN-based pencil drawing learning system for art education on large-scale image datasets with learning analytics. Interactive Learning Environments, 31(5), 2544-2561. (※Q1)",
+            "subtitle": "",
+            "meta": "2023",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2019.1636827",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-14",
+            "title": "Meijun GU, Bo JIANG, Chengjiu YIN, The Relationship Between Learners’ Backtracking Behaviors and Learning Effects in Digital Textbook Reading, Modern Educational Technology, 32(2), 49-58，2022 (in Chinses).",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-15",
+            "title": "Bo Jiang, Wei Zhao, Xiaoqing Gu & Chengjiu Yin (2021). Understanding the relationship between computational thinking and computational participation: a case study from Scratch online community. Educational Technology Research and Development, 69(5), 2399–2421. (※, Q1)",
+            "subtitle": "",
+            "meta": "2021",
+            "summary": "",
+            "link": "https://doi.org/10.1007/s11423-021-10021-8",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-16",
+            "title": "Zhao, Fuzheng, Gwo-Jen Hwang & Chengjiu Yin (2021). A Result Confirmation-based Learning Behavior Analysis Framework for Exploring the Hidden Reasons behind Patterns and Strategies. (Special issue “Precision education - a new challenge for AI in education”) Educational Technology & Society, 24 (1), 138–151. (※, Q1)",
+            "subtitle": "",
+            "meta": "2021",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-17",
+            "title": "大月一弘, 齋藤政彦, 熊本悦子, 殷成久(2021). LMSの高度化と学修データ統合システムによる学修者本位の教育の実現―神戸大学Plus-DX取組みの紹介―, 大学教育と情報 : JUCE journal, No.3, 4-5. (招待論文)",
+            "subtitle": "",
+            "meta": "2021",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-18",
+            "title": "Barrett Neil E. Barrett, Wei-Chen Hsu, Gi-Zen Liu, Hei-Chia Wang & Chengjiu Yin (2020). Computer ‐supported collaboration and written communication: Tools, methods, and approaches for second language learners in higher education. Human Behavior and Emerging Technologies, 3(2), 261–270. (※)",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "https://doi.org/10.1002/hbe2.225",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-19",
+            "title": "Nian-Shing Chen, Chengjiu Yin, Pedro Isaias & Joseph Psotka (2020). Educational big data: extracting meaning from data for smart education, Interactive Learning Environments, 28(2), 142-147, 2020. DOI: 10.1080/10494820.2019.1635395. (※Q1)",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-20",
+            "title": "Bo Jiang, Simin Wu, Chengjiu Yin & Haifeng Zhang (2020). Knowledge Tracing Within Single Programming Practice Using Problem-Solving Process Data. IEEE Transactions on Learning Technologies, 13(4), 822–832.",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "https://doi.org/10.1109/tlt.2020.3032980",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-21",
+            "title": "Vivien Lin, Gi-Zen Liu, Gwo-Jen Hwang, Nian-Shing Chen & Chengjiu Yin (2019). Outcomes-Based Appropriation of Context-Aware Ubiquitous Technology across Educational Levels, Interactive Learning Environments. (※Q1)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2019.1703012",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-22",
+            "title": "Anna Y. Q. Huang, Owen H. T. Lu, Jeff C. H. Huang, C. J. Yin & Stephen J. H. Yang (2019). Predicting students’ academic performance by using educational big data and learning analytics: evaluation of classification methods and learning logs. Interactive Learning Environments, 28(2), 206–230. (※Q1) (Top 10)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2019.1636086",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-23",
+            "title": "Kousuke Mouri, Noriko Uosaki, Mohammad Hasnine, Atsushi Shimada, Chengjiu Yin, Keiichi Kaneko & Hiroaki Ogata (2019). An automatic quiz generation system utilizing digital textbook logs. Interactive Learning Environments, 29(5), 743–756. (※Q1)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2019.1620291",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-24",
+            "title": "Kousuke Mouri, Fumiya Suzuki, Atsushi Shimada, Noriko Uosaki, Chengjiu Yin, Keiichi Kaneko & Hiroaki Ogata (2019). Educational data mining for discovering hidden browsing patterns using non-negative matrix factorization. Interactive Learning Environments, 29(7), 1176–1188. (※Q1)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2019.1619594",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-25",
+            "title": "Kousuke Mouri, Zhuo Ren, Uozaki Noriko & Chengjiu Yin (2019). Analyzing Learning Patterns Based on Log Data from Digital Textbooks. International Journal of Distance Education Technologies (IJDET), 17(1), 1–14. (※)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.4018/ijdet.2019010101",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-26",
+            "title": "Gwo-Jen Hwang, Chengjiu Yin & Hui-Chun Chu (2019). The era of flipped learning: promoting active learning and higher order thinking with innovative flipped learning strategies and supporting systems. Interactive Learning Environments, 27(8), 991–994. (※Q1)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2019.1667150",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-27",
+            "title": "Tosti Hsu-Cheng Chiang, Stephen J. H. Yang & Chengjiu Yin (2019). Effect of gender differences on 3-on-3 basketball games taught in a mobile flipped classroom. Interactive Learning Environments, 27(8), 1093–1105. (※Q1)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2018.1495652",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-28",
+            "title": "Chengjiu Yin, Masanori Yamada, Misato Oi, Atsushi Shimada, Fumiya Okubo, Kentaro Kojima & Hiroaki Ogata (2018). Exploring the Relationships between Reading Behavior Patterns and Learning Outcomes Based on Log Data from E-Books: A Human Factor Approach. International Journal of Human–Computer Interaction, 35(4–5), 313–322. (※)",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10447318.2018.1543077",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-29",
+            "title": "殷 成久 & 熊本 悦子 (2018). 電子教科書システム DITeLの利用履歴データ活用に向けた学修分析((Learning Analytics towards the Usage of Learning log from DITeL Digital Textbook System)). 大学教育研究, (26), 1-8. (紀要論文).",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-30",
+            "title": "Kousuke Mouri, Chengjiu Yin and Noriko Uosaki (2018). Learning Analytics for Improving Learning Materials us-ing Digital Textbook Logs. Information Engineering Express, 4(1), 23–32.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "https://doi.org/10.52731/iee.v4.i1.225",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-31",
+            "title": "Hsiao, C. C., Huang, J. C. H., Huang, A. Y. Q., Lu, O. H. T., Yin, C. J., & Yang, S. J. H. (2018). Exploring the effects of online learning behaviors on short-term and long-term learning outcomes in flipped classrooms. Interactive Learning Environments, 27(8), 1160–1177. (※Q1)",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2018.1522651",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-32",
+            "title": "Chengjiu Yin & Gwo-Jen Hwang (2018). Roles and strategies of learning analytics in the e-publication era, (Special issue “Review and Trend Analysis of Knowledge Management and E-Learning Research”) Knowledge Management & E-Learning: An International Journal (KM&EL), 10(4) 455–468. (Invited position paper) (※)",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "https://doi.org/10.34105/j.kmel.2018.10.028",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-33",
+            "title": "Chengjiu Yin, Neil Yen & Qun Jin (2018). Special Issue on Trends and Research Issues of Emerging Technologies to Enhance Learning, International Journal of Distance Education Technologies(IJDET), 16(4),V-VIII. (Guest Editor). (※)",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-34",
+            "title": "Atsushi Shimada , Fumiya Okubo, Chengjiu Yin & Hiroaki Ogata (2018). Automatic Summarization of Lecture Slides for Enhanced Student PreviewTechnical Report and User Study. IEEE Transactions on Learning Technologies, 11(2), 165–178. (※Q1)",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "https://doi.org/10.1109/tlt.2017.2682086",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-35",
+            "title": "Mehrasa Alizadeh, Parisa Mehran, Noriko Uosaki & Chengjiu Yin (2018). Learning Japanese Beyond the Classroom: Recommended CALL Tools, The Language Teacher, 42(2), 26-28.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-36",
+            "title": "Gwo-Jen Hwang, Hui-Chun Chu & Chengjiu Yin (2017). Objectives, methodologies and research issues of learning analytics. Interactive Learning Environments, 25(2), 143–146. (※Q1) (Guest Editor)",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2017.1287338",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-37",
+            "title": "緒方 広明, 殷 成久, 大井 京, 大久保 文哉, 島田 敬士, 小島 健太郎, & 山田 政寛. (2016). デジタル教材の閲覧ログを利用したアクティブ・ラーナーの学習行動の分析. 九州大学基幹教育院 基幹教育紀要, 2, 48-60.",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-38",
+            "title": "緒方 広明, 殷 成久, 毛利 考佑, 大井 京, 島田 敬士, 大久保 文哉, 山田 政寛 & 小島 健太郎. (2016). 教育ビッグデータの利活用に向けた学習ログの蓄積と分析. 教育システム情報学会誌, 33(2), 58-66.(解説論文) (CiNNi)",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-39",
+            "title": "Chengjiu Yin, Jane Yin-Kim Yau, Gwo-Jen Hwang & Hiroaki Ogata, (2015). An SNS-based model for finding collaborative partners. Multimedia Tools and Applications, 76(9), 11531–11545. (※)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "https://doi.org/10.1007/s11042-015-2480-1",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-40",
+            "title": "Gwo-Jen Hwang, Hui-Chun Chu, Chengjiu Yin & Hiroaki Ogata (2015). Transforming the educational settings: innovative designs and applications of learning technologies and learning environments. Interactive Learning Environments, 23(2), 127–129. (※Q1) (Guest Editor)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "https://doi.org/10.1080/10494820.2014.998863",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-41",
+            "title": "Hyo-Jeong So,Xiaoqing Gu,Tzu-Chien Liu & Chengjiu Yin (2015) Special Issue on Technology-Transformed Learning: Reflections and Future Research Agendas, Int. J. Mobile Learning and Organisation, 9(4), 285. (Guest Editor)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-42",
+            "title": "Brendan Flanagan, Chengjiu Yin, Takahiko Suzuki & Sachio Hirokawa (2014). Classification of English language learner writing errors using a parallel corpus with SVM. International Journal of Knowledge and Web Intelligence(IJKWI), 5(1), 21.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "https://doi.org/10.1504/ijkwi.2014.065063",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-43",
+            "title": "Brendan Flanagan, Chengjiu Yin, Yohei Inokuchi & Sachio Hirokawa (2013). Supporting Interpersonal Communication Using Mind Maps. The Journal of Information and Systems in Education (JSiSE), 12(1), 13–18.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "https://doi.org/10.12937/ejsise.12.13",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-44",
+            "title": "Brendan Flanagan, Chengjiu Yin, Sachio Hirokawa, Kiyota Hashimoto & Yoshiyuki Tabata (2013). An Automated Method to Generate e-Learning Quizzes from Online Language Learner Writing. International Journal of Distance Education Technologies, 11(4), 63–80.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "https://doi.org/10.4018/ijdet.2013100105",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-45",
+            "title": "〇Chengjiu Yin, Han-Yu Sung, Gwo-Jen Hwang, Sachio Hirokawa, Hui Chun Chu, Brendan Flanagan &Yoshiyuki Tabata (2013). Learning by Searching: a Learning Approach that Provides Searching and Analysis Facilities to Support Research Trend Surveys, Journal of Educational Technology & Society, 13(3), 286–300 (※Q1)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-46",
+            "title": "Brendan Flanagan, Takahiko Suzuki, Jun Zeng, Chengjiu Yin, Toshihiko Sakai, Kiyota Hashimoto & Sachio Hirokawa (2013). Peer Knowledge Assisted Search Using Community Search Logs, International Journal of Digital Information and Wireless Communications, 3(2), 1-8.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-47",
+            "title": "Chengjiu Yin, Sachio Hirokawa, Jane Yin-Kim Yau, Tetsuya Nakatoh, Kiyota Hashimoto, Yoshiyuki Tabata (2013). Research Trends with Cross Tabulation Search Engine. International Journal of Distance Education Technologies, 11(1), 31–44.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "https://doi.org/10.4018/jdet.2013010103",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-48",
+            "title": "〇Chengjiu Yin, Yanjie Song, Yoshiyuki Tabata, Hiroaki Ogata, Developing and Implementing A Framework of Participatory Simulation for Mobile Learning using Scaffolding, Journal of Educational Technology & Society, Vol. 16, No. 2, pp. 137-150, 2013. (※Q1)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-49",
+            "title": "董 艳, 巩 媛丽 & 殷 成久 (2013).个体检索知识获取过程及策略. 现代远程教育研究, 2,107-112. doi:CNKI:SUN:XDYC.0.2013-02-020.(CSSCI)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-50",
+            "title": "Chengjiu Yin, Xinyou Zhao, Qun Jin (2013). Guest Editorial Preface, Special Issue on Technology-Enhanced Social Learning, International Journal of Distance Education Technologies (IJDET), 11(1) (Guest Editor)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-51",
+            "title": "Hui-Chun Chu & Chengjiu Yin (2013). Special Issue on Learning Technologies and Learning Environments, International Journal of Distance Education Technologies (IJDET), 11(4), IV-VI. (Guest Editor)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-52",
+            "title": "Jun Zeng, Toshihiko Sakai & Chengjiu Yin (2012). Automatic generation of tourism quiz using blogs. Artificial Life and Robotics, 17(3–4), 412–416.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "https://doi.org/10.1007/s10015-012-0076-7",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-53",
+            "title": "田畑 義之, 殷 成久 (2012). Webベースのクラス応答システム,ドイツ語情報処理研究, 22, 1-10.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-54",
+            "title": "Tetsuya Nakatoh, Chengjiu Yin & Sachio Hirokawa (2012). Characteristic grammatical context of tourism information. ICIC Express Letters, 6(3), 753-758.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-55",
+            "title": "Kiyota Hashimoto, Kazuhiro Takeuchi, Chengjiu Yin & Sachio Hirokawa (2011). Extraction of Subjective Context-Sensitive Evaluation of Japanese Onomatopoeic Expressions and its Applications, ICIC Express Letters, 5(10), 3755-3760.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-56",
+            "title": "Sachio Hirokawa, Chengjiu Yin, Kiyota Hashimoto & Kazuhiro Takeuchi (2011). Search and Analysis of Gourmet Blogs with a Particular Reference to Onomatopoeia, ICIC Express Letters, 5(8), 2971-2976.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-57",
+            "title": "Yuqin Liu, Chengjiu Yin, Hiroaki Ogata, Guojun Qiao & Yoneo Yano (2011). A FAQ-Based e-Learning Environment to Support Japanese Language Learning. International Journal of Distance Education Technologies, 9(3), 45–55.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "https://doi.org/10.4018/jdet.2011070104",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-58",
+            "title": "殷 成久，田畑 義之，緒方 広明 (2011). SNSによるモバイル言語学習環境の構築, ドイツ語情報処理研究, 21, 27-36.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-59",
+            "title": "Chengjiu Yin, Hiroaki Ogata, Yoshiyuki Tabata & Yoneo Yano (2010). Supporting the acquisition of Japanese polite expressions in context-aware ubiquitous learning. International Journal of Mobile Learning and Organisation, 4(2), 214. (Scopus)",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "https://doi.org/10.1504/ijmlo.2010.032637",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-60",
+            "title": "Hiroaki Ogata, Chengjiu Yin & Moushir M. El-Bishouty (2010). Computer supported ubiquitous learning environment for vocabulary learning. International Journal of Learning Technology, 5(1), 5.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "https://doi.org/10.1504/ijlt.2010.031613",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-61",
+            "title": "田畑 義之，殷 成久，緒方 広明 (2010). 携帯電話を利用した外国語学習支援ツールの開発, ドイツ語情報処理研究, 20, 15-22. (CiNNi)",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-62",
+            "title": "Hiroaki Ogata, Gan Li Hui, Chengjiu Yin, Takahito Ueda, Yasuko Oishi & Yoneo Yano (2008). LOCH: supporting mobile language learning outside classrooms. International Journal of Mobile Learning and Organisation, 2(3), 271.",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "",
+            "link": "https://doi.org/10.1504/ijmlo.2008.020319",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-63",
+            "title": "Chengjiu Yin, Hiroaki Ogata, Yoneo Yano (2007). Participatory Simulation Framework to Support Learning Computer Science, International Journal of Mobile Learning and Organisation, 1(3), 288-304, 2007.",
+            "subtitle": "",
+            "meta": "2007",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-64",
+            "title": "緒方 広明，近藤 智央，殷 成久，劉 玉琴，矢野 米雄 (2007). JAMIOLAS: センサを用いた擬態語•擬音語学習支援環境の試作, 教育システム情報学会論文誌, 24(4), 333-342. (CiNNi)",
+            "subtitle": "",
+            "meta": "2007",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-papers-65",
+            "title": "Chengjiu Yin, Hiroaki Ogata & Yoneo Yano (2004). JAPELAS: Supporting Japanese Polite Expressions Learning Using PDA towards Ubiquitous Learning, The Journal of Information and Systems in Education, 3(1), 33-39.",
+            "subtitle": "",
+            "meta": "2004",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "book-chapters",
+        "title": "主要著书",
+        "icon": "著",
+        "summary": "专著、章节与学位成果",
+        "items": [
+          {
+            "id": "book-chapters-1",
+            "title": "Chengjiu Yin, Hiroaki Ogata and Yoneo Yano, \"Participatory Simulation for Collaborative Learning Experiences\", in Innovative Mobile Learning: Techniques and Technologies, H. Ryu and D. Parsons (ed), IGI Global Information Science Reference, pp.197-214, October 2008.",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "书籍章节",
+            "link": "http://www.igi-global.com/book/innovative-mobile-learning/600",
+            "visible": true
+          },
+          {
+            "id": "book-chapters-2",
+            "title": "Chengjiu Yin, Research on PDA-based Mobile Learning Environment, 徳島大学博士論文, 全98p. (2008)",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "博士论文",
+            "link": "http://iss.ndl.go.jp/books/R100000002-I000009361644-00",
+            "visible": true
+          },
+          {
+            "id": "book-chapters-3",
+            "title": "Gwo-Jen Hwang, Hui-Chun Chu, Chengjiu Yin, Learning Analytics. Routledge, 156 pages (2020).",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "专著",
+            "link": "https://www.amazon.com/Learning-Analytics-Gwo-Jen-Hwang/dp/1138369721",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "international-conference",
+        "title": "国际会议",
+        "icon": "会",
+        "summary": "国际学术会议论文",
+        "items": [
+          {
+            "id": "international-conference-1",
+            "title": "A Framework for Using LLMs and RAG to Realize the Automatic Generation of Learning Materials from Lecture Slides",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "作者：Kota Hashiyada, Wei Shi and Chengjiu Yin",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-2",
+            "title": "Integrating Scaffolding Strategies with Environmental Monitoring Systems to Enhance Learning and Practical Skills in Agricultural Education",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "作者：Haiqiao Liu, Tsubasa Minematsu, Chengjiu Yin, Shuqing Liu, Sijie Xiong and Atsushi Shimada",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-3",
+            "title": "Examining Metacognitive Difficulties in Learning Programming: Analysis of Student Behavior and Strategy",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "作者：Huiyong Li, Boxuan Ma and Chengjiu Yin (Best short Paper)",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-4",
+            "title": "Multidimensional Feature-Based Textbook Difficulty Assessment Index",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "作者：Yu Bai, Fuzheng Zhao, Wenhao Wang and Chengjiu Yin (Best poster Paper)",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-5",
+            "title": "An Approach to Evaluating the Role of Reading Map in Supporting Self-Reflection in E-book Environments",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "作者：Yushun Su, Zhelin Xu, Xu Wang, Chengjiu Yin and Juan Zhou",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-6",
+            "title": "Kai Yoshida, Asako Ohno, Iori Tani, Chengjiu Yin and Etsuko Kumamoto, A Study of a Method for Role Estimation in Discussions using Large Language Models,19th International Conference on Innovative Computing, Information and Control (ICICIC2025), August 26-29, 2025, Kitakyushu, Japan.",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-7",
+            "title": "Haiqiao Liu, Tsubasa Minematsu, Chengjiu Yin, Sijie Xiong, Atsushi Shimada, Exploring the Relationship Between System Operation Behaviors and Learning Achievement in Agricultural Education, ICCE2025,",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-8",
+            "title": "W. Wang, E. Kumamoto, and C. Yin. A page jump recommendation model and result interpretation based on structured annotation methods. In B. Paaßen and C. D. Epp, editors, Proceedings of the 17th International Conference on Educational Data Mining, pages 368–375, Atlanta, Georgia, USA, July 2024. International Educational Data Mining Society",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-9",
+            "title": "Chengjiu Yin, Ryoya Shiroki, Huiyong Li and Lin Lin, A teaching materials recommendation system considering individual characteristics, IIAI International Congress on Advanced Applied Informatics (IIAI-AAI) 2024, Takamatsu, July, 2024, DOI: 10.1109/IIAI-AAI63651.2024.00049",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-10",
+            "title": "Zhou, J., Nakaya, K., Ono, Y., Chu, HC., Yin, C. (2024). Exploring the Influence of Shared Learning Logs in the e-Book Utilization. In: Zaphiris, P., Ioannou, A. (eds) Learning and Collaboration Technologies. HCII 2024. Lecture Notes in Computer Science, vol 14722. Springer, Cham.",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "https://doi.org/10.1007/978-3-031-61672-3_19",
+            "visible": true
+          },
+          {
+            "id": "international-conference-11",
+            "title": "Yu BAI, Fuzheng ZHAO, Wenhao Wang & Chengjiu YIN, Optimizing Causal Inference Approach for Exploring Shallow Reading Behavior with Generative Adversarial Networks, 32nd International Conference on Computers in Education Conference(ICCE), Manila, Philippines,Nov.25-29,2024, pp.335 -340.",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-12",
+            "title": "Yuki Oe, Etsuko Kumamoto, Huiyong Li, and Chengjiu Yin, Exploring the Relationship Between Assignment Submission Behavior and Final Grade of Information Literacy Education Using Big Data, 32nd International Conference on Computers in Education Conference(ICCE), Manila, Philippines,Nov.25-29,2024, pp. 437-439.",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-13",
+            "title": "Wenhao Wang, Natsumi Yamamoto, Fuzheng Zhao, Etsuko Kumamoto, Zicheng Kang and Chengjiu Yin, A page jump recommendation model based on digital textbook contents and student log data,31st International Conference on Computers in Education Conference(ICCE 2023), Shimane, Japan,Dec.4-8,2023, pp.451-456.",
+            "subtitle": "",
+            "meta": "2023",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-14",
+            "title": "Fuzheng Zhao, Danqing Luo, Etsuko Kumamoto and Chengjiu Yin, Design and Development of A Game to Improve Self-Efficacy: A Case Study of Addressing Modes Learning, 31st International Conference on Computers in Education Conference( ICCE 2023),Shimane, Japan, Dec. 4-8,2023, pp. 627-636. (Best Technical Design Paper Nominees)",
+            "subtitle": "",
+            "meta": "2023",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-15",
+            "title": "Zhao, F., Yin, C., & Kumamoto, E., Identifying and analyzing the repeated reading behavior using users’ log data. In 2023 14th International Congress on Advanced Applied Informatics (IIAI-AAI), Koriyama, Japan, July 8-13, 2023, pp:150-153. IEEE.",
+            "subtitle": "",
+            "meta": "2023",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-16",
+            "title": "Zhao, F. ,Wang, S., Yin, C.(2023). A Group Formation System Based on Learning Style and Behavior Log Data, 2023 International Conference on Artificial Intelligence and Education (ICAIE 2023), pp. 1-2. IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-17",
+            "title": "Yin, C., Tanimura, N., & Zhao, F. (2023, March). A system that supports learners' discovery of lack of knowledge by subdividing knowledge. In 2023 International Conference on Artificial Intelligence and Education (ICAIE) (pp. 5-6). IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-18",
+            "title": "Yin, C., Minatoya, D., & Zhao, F. (2023, March). Factor analysis for performance prediction using e-book learning logs. In 2023 International Conference on Artificial Intelligence and Education (ICAIE) (pp. 42-43). IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-19",
+            "title": "Zhao, F. , Nakajima, H., Yin, C. (2023). A Method to Determine the Accuracy of the Automatic Page-Turning Navigation Function, 2023 International Conference on Artificial Intelligence and Education (ICAIE 2023), pp. 3-4, IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-20",
+            "title": "Luo, D., Xu, L., Zhou, J, Zhao, F., Yin, C (2023). A Method to Determine the Accuracy of the Automatic Page-Turning Navigation Function, 2023 International Conference on Artificial Intelligence and Education (ICAIE 2023), pp. 7-12, IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-21",
+            "title": "Zhou, J. & Yin, C (2023). Information Avoidance in Educational Technology, 2023 International Conference on Artificial Intelligence and Education (ICAIE 2023), pp. 44-46, IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-22",
+            "title": "Kang, Z. & Yin, C (2023). Personalized Page-Transition Recommendation Model Based on Contents and Students' Logs in Digital Textbooks (ICAIE 2023), pp. 62-66, IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-23",
+            "title": "Wang, S., Zhou, J., Xu, L. & Yin, C (2023). Reduce Information Avoidance in Academic Reading by Group Formation (ICAIE 2023), pp. 75-79, IEEE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-24",
+            "title": "Zhao, F. & Yin, C. (2022). A Technique for Tracking the Reading Rate to Provide Students' Learning Feedback ,30th International Conference on Computers in Education Conference( ICCE 2022), pp. 381–386. APSCE.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-25",
+            "title": "Fuzheng Zhao, Etsuko Kumamoto and Chengjiu Yin, The effect and contribution of e-book logs to model creation for predicting students’ academic performance, 2021 International Conference on Advanced Learning Technologies (ICALT), 2021, pp. 187-189, doi: 10.1109/ICALT52272.2021.00063.",
+            "subtitle": "",
+            "meta": "2021",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-26",
+            "title": "Fuzheng Zhao, Bo Jiang, Juan Zhou & Chengjiu Yin. (2021, November). Explore the Contribution of Learning Style for Predicting Learning Achievement and Its Relationship with Reading Learning Behaviors. Rodrigo, M. M. T. et al. (Eds.). Proceedings of the 29th International Conference on Computers in Education, Asia-Pacific Society for Computers in Education, 2021, pp. 339-341.",
+            "subtitle": "",
+            "meta": "2021",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-27",
+            "title": "Fuzheng Zhao & Chengjiu Yin. (2021, July). \"Data collection in the learning behavior analysis: A systematic review,\" 2021 10th International Congress on Advanced Applied Informatics (IIAI-AAI), 2021, pp. 178-181, doi: 10.1109/IIAI-AAI53430.2021.00031.",
+            "subtitle": "",
+            "meta": "2021",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-28",
+            "title": "Chengjiu Yin, Lung Hsiang Wong, Wenli Chen, Bo Jiang, Asia Learning Analysis (LA) and the Development Trend of Artificial Intelligence (AI) Education, Proceedings of the 24th Global Chinese Conference on Computers in Education, pp.2-6, 2020 (in Chinese)",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-29",
+            "title": "Noriko Uosaki, Kouseke Mouri, Takahiro Yonekawa, Chengjiu Yin, Akihiko Ieshima, Hiroaki Ogata, Learning Support for Career Related Terms with SCROLL and InCircle, N. Streitz and S. Konomi (Eds.): HCII 2020, LNCS 12203, pp. 648–662, 2020.",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "https://doi.org/10.1007/978-3-030-50344-4_47",
+            "visible": true
+          },
+          {
+            "id": "international-conference-30",
+            "title": "Juan Zhou, Hideyuki Takada & Chengjiu Yin, Proposal of Note-map for Collaborative Reading Using an E-book System, So, H. J. et al. (Eds.). Proceedings of the 28th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education, pp. 192-194, 2020.",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-31",
+            "title": "Meijun Gu, Bo Jiang, Chengjiu Yin, Learning Style Prediction Using Students’ E-textbook Reading Behaviors Data, So, H. J. et al. (Eds.). Proceedings of the 28th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education, pp. 332-340, 2020.",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-32",
+            "title": "Fuzheng Zhao, Yoshiyuki Tabata, Chengjiu Yin, Research trend and development process in learning analytics: a review of publications in selected journals from 2008 to 2019, So, H. J. et al. (Eds.). Proceedings of the 28th International Conference on Computers in Education. Asia-Pacific Society for Computers in Education, pp. 665-668, 2020.",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-33",
+            "title": "Kousuke Mouri, Noriko Uosaki, Chengjiu Yin, Atsushi Shimada, Mohammad Nehal Hasnine, Keiichi Kaneko, Hiroaki Ogata, Supporting ubiquitous language learning with object and text detection technologies, Conference Proceedings Vol. 2 of the 27th International Conference on Computers in Education (ICCE2019), pp.192-196, 2019.",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-34",
+            "title": "Lingyu Li, Noriko Uosaki, Kousuke Mouri, Chengjiu Yin, A System for Finding and Improving the Relevant Contents of Digital Textbooks based on Quizzes’ Contents, Conference Proceedings Vol. 2 of the 27th International Conference on Computers in Education (ICCE2019), pp.178-183, 2019.",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-35",
+            "title": "Chengjiu Yin, Juan Zhou, Lingyu Li, Koudai Yamaguchi, Noriko Uosaki, & Hiroaki Ogata, An Analysis of Learning Behavior Patterns with Different Devices and Weights, Conference Proceedings Vol. 1 of the 27th International Conference on Computers in Education (ICCE2019), pp.288-293, 2019.",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-36",
+            "title": "Noriko Uosaki, Kousuke Mouri, Takahiro Yonekawa, Chengjiu Yin, & Hiroaki Ogata, Supporting Job-hunting Students to Learn Job-hunting Related Terms with SCROLL eBook and InCircle, Conference Proceedings Vol. 1 of the 27th International Conference on Computers in Education (ICCE2019), pp.478-483, 2019.",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-37",
+            "title": "Fumiya Suzuki, Kousuke Mouri, Uosaki Noriko, Atsushi Shimada, Chengjiu Yin and Keiichi Kaneko , A System for Grouping Texts and Objects in Slide Layout, Proceedings of the IIAI International Congress on Advanced Applied Informatics 2019 (IIAI AAI 2019), July 7-12, 2019, pp.1045-1046, Toyama, Japan (Best post paper)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-38",
+            "title": "Fumiya Suzuki, Kousuke Mouri, Uosaki Noriko, Atsushi Shimada, Chengjiu Yin and Keiichi Kaneko, Elicitation of Appropriate Scratching Zones Based on Lecture Slide Layouts, Proceedings of HCII2019@Orlando July. In: Streitz N., Konomi S. (Eds.) Distributed, Ambient and Pervasive Interactions. HCII 2019. Lecture Notes in Computer Science, Vol. 11587. Springer, Cham pp. 430-441. DOI Online ISBN 978-3-030-21935-2. (Invited paper).",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1007/978-3-030-21935-2_34",
+            "visible": true
+          },
+          {
+            "id": "international-conference-39",
+            "title": "Noriko Uosaki, Kousuke Mouri, Fumiya Suzuki, Mohammad Nehal, Hasnine, Takahiro Yonekawa, Chengjiu Yin, Hiroaki Ogata, Seamless Collaborative Learning Method to Learn Business Japanese with eBook and Chat System, Proceedings of HCII2019@Orlando July. In: Streitz N., Konomi S. (Eds.) Distributed, Ambient and Pervasive Interactions. HCII 2019. Lecture Notes in Computer Science, Vol. 11587. Springer, Cham pp. 442-458. DOI Online ISBN 978-3-030-21935-2. (Invited paper).",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1007/978-3-030-21935-2_34",
+            "visible": true
+          },
+          {
+            "id": "international-conference-40",
+            "title": "Chengjiu Yin, Zhuo Ren, Agoritsa Polyzou, and Yong Wang, Learning Behavioral Pattern Analysis Based on Digital Textbook Reading Logs, Proceedings of HCII2019@Orlando July. In: Streitz N., Konomi S. (Eds.) Distributed, Ambient and Pervasive Interactions. HCII 2019. Lecture Notes in Computer Science, Vol. 11587. Springer, Cham pp. 471-480. DOI Online ISBN 978-3-030-21935-2. (Invited paper).",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://doi.org/10.1007/978-3-030-21935-2_34",
+            "visible": true
+          },
+          {
+            "id": "international-conference-41",
+            "title": "Lingyu Li, Chengjiu Yin, Analyzing e-books Logs through Weighted K-means Clustering, the 4th International Workshop on Learning Environment and Educational Technology (LEET), Kobe University, 2019.8.",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-42",
+            "title": "Juan Zhou, Hideyuki Takada& Chengjiu Yin, Understand Students Reading Style using an E-book System, the 4th International Workshop on Learning Environment and Educational Technology (LEET), Kobe University, 2019. 8.",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "https://leet-osaka.jimdofree.com/",
+            "visible": true
+          },
+          {
+            "id": "international-conference-43",
+            "title": "Noriko Uosaki, Kousuke Mouri, Chengjiu Yin and Hiroaki Ogata, Seamless Support for International Students’ Job Hunting in Japan Using Learning Log System and eBook, IEEE International Conference on Learning Technologies and Learning Environments, pp 374-377, 2018.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-44",
+            "title": "Kousuke Mouri, Atsushi Shimada, Chengjiu Yin and Keiichi Kaneko, Discovering Hidden Browsing Patterns Using Non-Negative Matrix Factorization, International Conference on Educational Data Mining, pp.568-570, 2018",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-45",
+            "title": "Kousuke Mouri, Noriko Uosaki, Chengjiu Yin, Keiichi Kaneko and Hiroaki Ogata, Supporting Teaching and Learning with Automaticlly Generated Quiz System, World Conference on e-Learning, October 15-18, Las vegas, USA, 2018.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-46",
+            "title": "Noriko Uosaki, Kousuke Mouri, Chengjiu Yin and Hiroaki Ogata, How We Can Support International Students’ Job Hunting in Japan Seamlessly, International Conference on Computer in Education, November 26-30, Philippines, 2018, pp. 26-30.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-47",
+            "title": "Sachio Hirokawa, Chengjiu Yin, Feature Engineering for Learning Log Analysis, Companion Proceedings 9th International Conference on Learning Analytics & Knowledge (LAK19), Tempe, Arizona, USA, March 4-8, 2019, pp 478-485.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-48",
+            "title": "Zhuo Ren, Chengjiu Yin, Collecting Digital Book Reading Log in Commercial Law Course, International Joint Conference on Information, Media and Engineering(ICIME), Osaka University, Osaka, Japan, DEC 12-14, 2018, pp. 337-340.doi: 10.1109/ICIME.2018.00078 . (査読あり)",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-49",
+            "title": "Lingyu Li, Noriko Uosaki, Hiroaki Ogata, Kousuke Mouri, Chengjiu Yin, Analysis of Behavior Sequences of Students by Using Learning Logs of Digital Books, Proceedings of 26th International Conference on Computers in Education, Manila, Philippines, November 26-30, pp.367–376. (Best Student Paper Award Nominate).",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-50",
+            "title": "Kousuke Mouri, Noriko Uosaki, Chengjiu Yin, Atsushi Shimada, Keiichi Kaneko and Hiroaki Ogata (2018). Supporting Teaching/Learning with Automatically Generated Quiz System. In Proceedings of E-Learn: World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education (pp. 178-187). Las Vegas, NV, United States: Association for the Advancement of Computing in Education (AACE). Retrieved November 6, 2018 from Publisher: Association for the Advancement of Computing in Education (AACE), Chesapeake, VA",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "https://www.learntechlib.org/primary/p/184961/",
+            "visible": true
+          },
+          {
+            "id": "international-conference-51",
+            "title": "Lingyu Li, Chengjiu Yin, Sequential Pattern Analysis of e-Books’ Reading Logs, the 3rd International Workshop on Learning Environment and Educational Technology (LEET), Kobe University, 2018. 6. (Oral Presentation, Abstract審査)",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "https://leet-kobe.jimdofree.com/",
+            "visible": true
+          },
+          {
+            "id": "international-conference-52",
+            "title": "Kousuke Mouri, Noriko Uosaki, Atsushi Shimada, Chengjiu Yin, Keiichi Kaneko and Hiroaki Ogata, Redesign of a data collection in digital textbook systems, IEEE International Conference on Learning Technologies and Learning Environments, 2018. pp. 942-943. doi: 10.1109/IIAI-AAI.2018.00192.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-53",
+            "title": "Noriko Uosaki, Takahiro Yonekawa, and Chengjiu Yin, Supporting Collaborative Interaction Among Learners Using Collaborative Learning System InCircle, Proceedings of the 8th International Conference on Advanced Collaborative Networks, Systems and Applications(COLLA2018),June 24-28, 2018, Venice, Italy pp1-6.",
+            "subtitle": "",
+            "meta": "2018",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-54",
+            "title": "Chengjiu Yin, Noriko Uosaki, Hui-Chun Chu, Gwo-Jen Hwang, Jau-Jian Hwang, Itsuo Hatono, Etsuko Kumamoto and Yoshiyuki Tabata, Learning Behavioral Pattern Analysis based on Students’ Logs in Reading Digital Books, Proceedings of 25th International Conference on Computers in Education 2017, Christchurch, New Zealand, pp.549-557, Dec.4-Dec.8, 2017. (Best Overall Paper Candidate)",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-55",
+            "title": "Kousuke Mouri, Atsushi Shimada, Chengjiu Yin, Noriko Uosaki and Keiichi Kaneko, Real-time Analysis of Digital Textbooks: What Keywords Make Lecture Difficult?, Proceedings of 25th International Conference on Computers in Education 2017, Christchurch, New Zealand, pp.733-735, Dec.4-Dec.8, 2017.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-56",
+            "title": "Noriko UosakiO, Hiroaki Ogata, Kousuke Mouri & Chengjiu Yin, Enhancing Seamless Learning Using Learning Log System, Proceedings of 25th International Conference on Computers in Education 2017, Christchurch, New Zealand, pp.529-538 Dec.4-Dec.8, 2017.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-57",
+            "title": "Chengjiu Yin, Carol Hui-Chun Chu, Gwo-Jen Hwang, Etsuko Kumamoto, Itsuo Hatono, Exploring the Relationships between Reading Behavior Patterns and Learning Outcomes based on Log Data from e-books, Proceedings of the 2nd International Workshop on Learning Environment and Educational Technology (LEET) 2017, Taipei, Taiwan, Nov 13-14. (Oral Presentation, Review submitted abstracts)",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-58",
+            "title": "Chengjiu Yin, Enhancing Teaching and Learning through Educational Data Mining, Proceedings of the 1st International Workshop on Learning Environment and Educational Technology (LEET2017) , Kobe, Japan, p3, August 23-26, 2017. (Oral Presentation, Review submitted abstracts)",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-59",
+            "title": "Noriko Uosaki, Takahiro Yonekawa, and Chengjiu Yin, Enhancing Learners’ Cross-Cultural Understanding in Language and Culture Class Using InCircle, Proceedings of International Conference on Collaboration Technologies(CollabTech 2017) Collaboration Technologies and Social Computing, pp 145-152, Saskatoon, SK, Canada, August 8-10, 2017.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-60",
+            "title": "Hun-Chun Chu, Jau-Jian Hwang, Chengjiu Yin, Gwo-Jen Hwang, Exploring students’ behavioral pattern, learning achievement, and anxiety of a knowledge construction strategy-based e-book approach for academic English reading courses, Proceedings of the 1st International Workshop on Learning Environment and Educational Technology (LEET2017), Kobe, Japan, p8, August 23-26, 2017. (Oral Presentation, Review submitted abstracts)",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-61",
+            "title": "Chengjiu Yin, Noriko Uosaki, Building A Group Formation System by using Educational Log Data, Proceedings of the 2017 IEEE 17th International Conference on Advanced Learning Technologies, Timisoara, Romania, pp.320-321, July 3-7, 2017.(Best post paper Candidate)",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-62",
+            "title": "Noriko Uosaki, Takahiro Yonekawa and Chengjiu Yin, Supporting Collaborative Interaction among Learners with InCircle, Proceedings of the International Mobile Learning Festival 2017: Mobile Learning, Emerging Learning Design & Learning 2.0, pp.45-52. June 8-10, 2017, Hong Kong",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-63",
+            "title": "Kousuke Mouri, Chengjiu Yin, E-book-based Learning Analytics for Improving Learning Materials, Proceedings of the IIAI International Congress on Advanced Applied Informatics 2017 (IIAI AAI 2017), pp.493-497, Hamamatsu, Japan : International Institute of Applied Informatics. Institute of Electrical and Electronics Engineers. doi:10.1109/IIAI-AAI.2017.59, July 9-13, 2017",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-64",
+            "title": "Zhuo Ren, Noriko Uosaki, Etsuko Kumamoto, Gi-Zen Liu and Chengjiu Yin, Improving Teaching Materials through Digital Book Reading Log, Proceedings of The 2017 International Conference on Advanced Technologies Enhancing Education (ASSEHR: Advances in Social Science, Education and Humanities Research, Vol. 68), Qingdao, China, pp.90-96, March 18-20, 2017",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-65",
+            "title": "Chengjiu Yin, Yong Wang, Relationship between Learning Achievement and Learning Strategies in the use of Digital Textbook Reading Logs, Proceedings of The 2017 International Conference on Advanced Technologies Enhancing Education (ASSEHR: Advances in Social Science, Education and Humanities Research, Vol. 68), Qingdao, China, pp.107-110, March 18-20, 2017",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-66",
+            "title": "Chengjiu Yin, How to Mine Student Behavior Patterns in the Traditional Classroom, Proceedings of The 2017 International Conference on Advanced Technologies Enhancing Education (ASSEHR: Advances in Social Science, Education and Humanities Research, Vol. 68), Qingdao, China, pp.103-106, March 18-20, 2017",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-67",
+            "title": "Noriko Uosaki , Takahiro Yonekawa ,Chengjiu Yin , Supporting Out-of-class Interaction among Learners with InCircle, The 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017), Portland, OR, USA, pp. 331-334, February 25–March 1, 2017.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-68",
+            "title": "Chengjiu Yin, Jane Yin-Kim Yau, Noriko Uosaki, Etsuko Kumamoto, Sachio Hirokawa , Measuring & Evaluating Digital Textbooks through Quizzes, Proc. of 24th International Conference on Computers in Education 2016 (ICCE2016), Mumbai, India, pp.374-379, Nov. 28-Dec.2, 2016.",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-69",
+            "title": "Noriko Uosaki, Mahiro Kiyota, Kousuke Mouri, Hiroaki Ogata and Chengjiu Yin, Let's Learn Business Japanese with Learning Log System and E-book, Proc. of 15th World Conference on Mobile and Contextual Learning, Sydney, Australia, pp.265-272, 24 - 26 October 2016",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-70",
+            "title": "Atsushi Shimada, Fumiya Okubo, Chengjiu Yin, Hiroaki Ogata, Automatic Generation of Personalized Review Materials Based on Across-Learning-System Analysis, International Workshop on Learning Analytics Across Physical and Digital Spaces (LAK)(Cross-LAK2016), 2016.04.25-29",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-71",
+            "title": "Chengjiu Yin, Fumiya Okubo, Atsushi Shimada, Misato Oi, Sachio Hirokawa, Masanori Yamada, Kentaro Kojima and Hiroaki Ogata, Analyzing the Features of Learning Behaviors of Students using e-Books, 1st workshop on e-Book-based Educational Big Data for Enhancing Teaching and Learning on 23rd International Conference on Computers in Education 2015(Workshop Proc. of ICCE2015), pp.617-626, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-72",
+            "title": "Atsushi Shimada, Fumiya Okubo, Chengjiu Yin, Misato Oi, Kentaro Kojima, Masanori Yamada and Hiroaki Ogata, Analysis of Preview Behavior in E-Book System, Workshop Proc. of ICCE2015, pp.593-600, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-73",
+            "title": "Jingyun Wang, Hiroaki Ogata, Chengjiu Yin and Atsushi Shimada, Visualization Supports for E-book users from meaningful learning perspective, Workshop Proc. of ICCE2015, pp.643-648, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-74",
+            "title": "Shohei Nakamura, Kosuke Kaneko, Yoshihiro Okada, Chengjiu Yin and Hiroaki Ogata, Cubic Gantt Chart as Visualization Tool for Learning Activity Data, Workshop Proc. of ICCE2015, pp.649-658, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-75",
+            "title": "Sachio Hirokawa, Chengjiu Yin, Jingyun Wang, Misato Oi and Hiroaki Ogata, Visualization of e-Book Learning Logs, Workshop Proc. of ICCE2015, pp.659-664, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-76",
+            "title": "Misato Oi, Chengjiu Yin, Fumiya Okubo, Atsushi Shimada, Kentaro Kojima, Masanori Yamada and Hiroaki Ogata Analysis of Links among E-books in Undergraduates’ E-Book Logs, Workshop Proc. of ICCE2015, pp.665-669, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-77",
+            "title": "Xinyu Fu, Chengjiu Yin, Atsushi Shimada, Hiroaki Ogata, Error Log Analysis for Improving Educational Materials in C Programming Language Courses, The 2nd ICCE workshop on Learning Analytics (LA2015), pp.412-417, 2015.11.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-78",
+            "title": "Atsushi Shimada, Fumiya Okubo, Chengjiu Yin and Hiroaki Ogata, Automatic Summarization of Lecture Slides for Enhanced Student Preview, Proc. of ICCE 2015, pp.218-227, 2015. (Best Overall Paper Candidate)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-79",
+            "title": "Xinyu Fu, Chengjiu Yin, Atsushi Shimada and Hiroaki Ogata, Error Log Analysis in C Programming Language Courses , Proc. of ICCE 2015, pp.641-650, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-80",
+            "title": "Misato Oi, Fumiya Okubo, Atsushi Shimada, Chengjiu Yin and Hiroaki Ogata, Analysis of Preview and Review Patterns in Undergraduates’ E-Book Logs, Proc. of ICCE 2015, pp.166-171, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-81",
+            "title": "Hiroaki Ogata, Chengjiu Yin, Misato Oi, Fumiya Okubo, Atsushi Shimada, Kentaro Kojima and Masanori Yamada, e-Book-based Learning Analytics in University Education, Proc. of ICCE 2015, pp.401-406, 2015. (Best Technical Paper Candidate)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-82",
+            "title": "Fumiya Okubo, Atsushi Shimada, Chengjiu Yin and Hiroaki Ogata, Visualization and Prediction of Learning Activities by Using Discrete Graphs, Proc. of ICCE 2015, pp.739-744, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-83",
+            "title": "Chengjiu Yin, Fumiya Okubo, Atsushi Shimada, Misato Oi, Sachio Hirokawa, Masanori Yamada, Kentaro Kojima and Hiroaki Ogata, Identifying and Analyzing the Learning Behaviors of Students using e‐Books, Proc. of 22nd International Conference on Computers in Education 2015 (ICCE 2015), pp.118-120, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-84",
+            "title": "Masanori Yamada, Chengjiu Yin, Atsushi Shimada, Kentaro Kojima, Fumiya Okubo, and Hiroaki Ogata. Preliminary Research on Self-regulated Learning and Learning Logs in a Ubiquitous Learning Environment, Proceedings of the 15th IEEE International Conference on Advanced Learning Technologies(ICALT 2015), 93-95, 2015 (Best Paper Award for Short Paper)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-85",
+            "title": "Atsushi Shimada, Fumiya Okubo, Chengjiu Yin, Kentaro Kojima, Masanori Yamada and Hiroaki Ogata, Informal Learning Behavior Analysis Using Action Logs and Slide Features in E-textbooks, The 15th IEEE International Conference on Advanced Learning Technologies(ICALT2015), Hualien, Taiwan, July 2015, pp. 116-117, 2015",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-86",
+            "title": "Brendan Flanagan, Chengjiu Yin, Takahiko Suzuki, Sachio Hirokawa, Prediction of Learner Native Language by Writing Error Pattern, the 2nd International Conference on Learning and Collaboration Technologies, held as Part of HCI International 2015, Los Angeles, CA, USA, August 2-7, 2015, (Lecture Notes in Computer Science), pp 87-96, 2015 (Web of Science)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-87",
+            "title": "Yayoi Anzai, Koji Mizoguchi, Chengjiu Yin, Tamaki Inada, Taketo Tashiro, Naomi Fujimura, Developing a MOOC at Kyushu University in Japan, Society for Information Technology & Teacher Education International Conference, pp. 7654-7657 , 2015",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-88",
+            "title": "Sachio Hirokawa, Brendan Flanagan, Takahiko Suzuki, Chengjiu Yin, Learning Winespeak from Mind Map of Wine Blogs, in S. Yamamoto (Ed.): Proc. HIMI 2014, Part II, LNCS 8522, pp. 383-393, 2014. (Web of Science)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-89",
+            "title": "Sachio Hirokawa, Brendan Flanagan, Chengjiu Yin, Hiroto Nakae, Vizualization of Relation and Generality of Words in Search Result, Proceedings of the Third Asian Conference on Information Systems, pp.90-95, Nov. 2014",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-90",
+            "title": "Chengjiu Yin, Fumiya Okubo, Atsushi Shimada, Kojima Kentaro, Masanori Yamada, Hiroaki Ogata, Naomi Fujimura, Smart Phone based Data Collecting System for Analyzing Learning Behaviors, Proceedings of the 22nd International Conference on Computers in Education, pp.575-577, Nara, Japan, Nov. 2014.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-91",
+            "title": "Chengjiu Yin, Brendan Flanagan, Sachio Hirokawa, Learning by “Search & Log”, Proceedings of the 22nd International Conference on Computers in Education, pp.391-393, Nara, Japan, Nov. 2014.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-92",
+            "title": "Brendan Flanagan, Chengjiu Yin, Takahiko Suzuki, Sachio Hirokawa, Classification and Clustering English Writing Errors Based on Native language, IIAI 3rd International Conference on Advanced Applied Informatics (IIAIAAI-LTLE), pp. 318-323, 2014. (Web of Science)",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-93",
+            "title": "Sachio Hirokawa, Brendan Flanagan, Takahiko Suzuki, Chengjiu Yin, Learning Winespeak from Mind Map of Wine Blogs, 16th International Conference of Human Interface and the Management of Information. Information and Knowledge in Applications and Services(HCII2014), Lecture Notes in Computer Science Volume 8522, Heraklion, Crete, Greece, June 22-27, pp 383-393, 2014(Web of Science)",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-94",
+            "title": "Chengjiu Yin, Jane Yin-Kim Yau, Sachio Hirokawa, Yoshiyuki Tabata, An SNS-based Literature Review System for Conducting a Research Survey, Proc. of International Conference on Computers in Education 2013 (ICCE2013), Denpasar Bali, Indonesia, pp.398 – 404, Nov. 18-22, 2013.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-95",
+            "title": "Eisuke Ito, Brendan Flanagan, Chengjiu Yin, Tetsuya Nakatoh, Sachio Hirokawa, A Study of Search Engine Exercise Using VM on A Private Cloud, Proc. of ICCE2013, Denpasar Bali, pp.391 – 397,Indonesia, Nov. 18-22, 2013.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-96",
+            "title": "Brendan Flanagan, Chengjiu Yin, Kiyota Hashimoto, Sachio Hirokawa, Clustering English Writing Errors based on Error Category Prediction, Proc. of International Symposium on Engineering, Energy and Environment , Bangkok, Thailand, pp. 733-739, Nov. 17-20, 2013.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-97",
+            "title": "Chengjiu Yin, Brendan Flanagan, Sachio Hirokawa, Yoshiyuki Tabata, Build A Search Engine to Support Doing Research Surveys On SNS, Proc. of LTLE(Learning Technologies and Learning Environments) 2013, pp.183-186, Matsue, Japan, Aug. 31–Sep. 4, 2013. (Web of Science)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-98",
+            "title": "Brendan Flanagan, Chengjiu Yin, Takahiko Suzuki, Sachio Hirokawa, Intelligent Computer Classification of English Writing Errors, Proc. of Intelligent Interactive Multimedia Systems and Services, Vol. 254, pp.174 - 183, Sesimbra, Portugal, June 26-28, 2013. (Web of Science)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-99",
+            "title": "Brendan Flanagan, Yohei Inokuchi, Chengjiu Yin, Sachio Hirokawa, Using Automatically Generated Mind Maps to Promote Initial Communication, Proc. of AECT International Conference on the Frontier in e-Learning Research 2013, pp.332-333, Taichung, Taiwan, June 18-20, 2013.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-100",
+            "title": "Brendan Flanagan, Takahiko Suzuki, Jun Zeng, Chengjiu Yin, Toshihiko Sakai, Kiyota Hashimoto, Sachio Hirokawa, Focused Search using Community Search Logs, Proc. of International Conference on Digital Information Processing and Communications, pp.559-565, Dubai, UAE, Jan.30-Feb.1, 2013.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-101",
+            "title": "Youhei Inokuchi, Toshihiko Sakai, Chengjiu Yin and Sachio Hirokawa, Generation of Hen-ai Map from Search Log for Foreign Language Learning, Asian Conference on Information Systems (ACIS2012), pp. 115-118, Dec 6-8, Siem Reap, Cambodia, 2012 .",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-102",
+            "title": "Chengjiu Yin, Jane Yin-Kim Yau,Yoshiyuki Tabata, A Novel Collaboration Partner Model Based on the Personal Relationships of SNS, the 8th International Conference on Active Media Technology, Springer LNCS, pp.520-527,Dec. 4-7, Macau, China, 2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-103",
+            "title": "Chengjiu Yin, Sachio Hirokawa, Brendan Flanagan, Takahiko Suzuki, Yoshiyuki Tabata, Mistake Discovery and Generation of Exercises Automaticity in Context, Proc. of LTLE2012, pp.163-167, Fukuoka, Japan, Sep. 20-22,2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-104",
+            "title": "Chengjiu Yin, Yan Dong, Yoshiyuki Tabata, Recommendation of Helpers based on Personal Connections in Mobile Learning, Proc. of International Conference on Wireless, Mobile and Ubiquitous Technologies in Education(WMUTE2012), pp.137-141, Kagawa, Japan, March 27-30, 2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-105",
+            "title": "Brendan Flanagan, Chengjiu Yin, Sachio Hirokawa, Gwo-Jen Hwang, Analysing Research Trends of Mobile Learning with the Milky Way, Proc. of IEEE WMUTE2012, pp.249-253,Kagawa, Japan, March 27-30,2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-106",
+            "title": "Jun Zeng, Toshihiko Sakai, Chengjiu Yin, Takahiko Suzuki, Sachio Hirokawa, Automatic Generation of Tourism Quiz using Blogs, Proc. of International Symposium on Artificial Life and Robotics 2012 (AROB2012), pp. 97-100, Beppu, Oita, Japan, Jan. 19-21, 2012",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-107",
+            "title": "Xiaobin Wu, Jun Zeng, Chengjiu Yin, Sachio Hirokawa, Sharing Knowlede and Experience of Search with SNS, Proc. of AROB2012, pp. 101-104, Beppu, Oita, Japan, Jan. 19-21, 2012",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-108",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata, Sachio Hirokawa: A \"Milky Way Research Trend\" system for Survey of Scientific Literature, Proc. of the 10th International Conference on Web-Based Learning workshop on \"Enhancing Learning with Social Media(ELSM)\", Springer LNCS, 2011. Hongkong (D.K.W. Chiu et al. (Eds.): ICWL 2011/2012 Workshops, LNCS 7697, pp. 90--99. Springer, Heidelberg (2014)",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-109",
+            "title": "Tetsuya Nakatoh, Chengjiu Yin, Sachio Hirokawa, Extraction and Disambiguation of Name of Place from Tourism Blogs, Proc. of ACIS International Symposium on Software and Network Engineering (SSNE2011) workshop on \"Innovative Tourism Informatics\", pp.73-78, Seoul, Korea, Dec. 19-20, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-110",
+            "title": "Yoshiyuki Tabata, Chengjiu Yin, and Amy Yu-Fen Chen: Utilizing the HTML5 to Build a Classroom Response System, Workshop Proceedings: Supplementary Proc. of ICCE 2011, pp. 337-344, ChiangMai ,Thailand, Nov. 28-Dec.2. 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-111",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata, Kiyota Hashimoto, Tetsuya Nakatoh, Sachio Hirokawa, A Support System for Research Trend Survey of Scientific Literature, Proc. of ICCE2011, pp.116-118, ChiangMai ,Thailand, Nov. 28-Dec.2. 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-112",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata, Xiaobin Wu, Tetsuya Nakatoh and Sachio Hirokawa, Building a Search Engine for Scientific Projects Survey, Proc. of IEEE Internetional Conference on Cyber, Physical and Social Computing (CPSCom 2011) workshops on \"Technology-Enhanced Social Learning\", pp. 558-563, Dalian, China, Oct. 19–22, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-113",
+            "title": "Tetsuya Nakatoh, Chengjiu Yin, Hiroki Matsuura and Sachio Hirokawa, Visualization of Tourism Information using WordNet, Proc. of International Conference on Awareness Science and Technology (ICAST2013), pp. 413-418, Dalian, China, Sep. 27-30, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-114",
+            "title": "Chengjiu Yin, Tetsuya Nakatoh, Ito Eisuke and Sachio Hirokawa, Classification Network of Tourism Information-A Smart Phone-based System for Supporting “Petit Trips”, Proc. of ICAST2013, pp.171-174, Dalian, China, Sep. 27-30,2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-115",
+            "title": "Sachio Hirokawa, Chengjiu Yin, Kiyota Hashimoto, Multidisciplinary Multi-Faceted Search Engine of Literatures on Tourism, Proc. of International Symposium on Applied Informatics , Yamagata, Japan, Aug. 9, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-116",
+            "title": "Sachio Hirokawa, Chengjiu Yin, Tetsuya Nakatoh, Component-Based Search Engine for Blogs, Proc. of IEEE International Conference on Fuzzy Systems 2011, pp.1074-1078, Taipei, Taiwan, June 27-30, 2011. (Web of Science)",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-117",
+            "title": "Xiaobin Wu, Sachio Hirokawa, Chengjiu Yin, Tetsuya Nakatoh, Yoshiyuki Tabata, Extraction and Comparison of Tourism Information on the Web, Proc. of AROB2011, pp.228-231, Beppu, Oita, Japan, Jan. 27-29, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-118",
+            "title": "Chengjiu Yin, Tetsuya Nakatoh, Sachio Hirokawa Xiaobin Wu, Zengjun, A Proposal of \"TOIEBA\" Search Engine for Tourism Event, Proc. of IITA International Joint Conference on Artificial Intelligence, pp.178-181,Shanghai,China,Dec. 25, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-119",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata ,Hiroaki Ogata and Yoneo Yano, Supporting Awareness of Learning Partners for Mobile Language Learning, Proc. of ICCE2010, pp.457-460,Putrajaya, Malaysia, Nov.29-Dec.3, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-120",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata ,Hiroaki Ogata and Yoneo Yano, Social Networking based on Language Exchange Site in Mobile Learning Environment, Proc. of ICCE2010 Workshop on \"Technology-Transformed Learning: Going Beyond the One-to-One Model?\", pp.177-184, Putrajaya, Malaysia, Nov.29-Dec.3, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-121",
+            "title": "Chengjiu Yin, Utilizing Mobile Technologies to Realize “Learning by Doing”, Joint Proc. of Work-in-Progress Poster and Invited Young Researcher Symposium at the 18th ICCE, p. 83, Putrajaya, Malaysia, Nov.29-Dec.3, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-122",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata ,Hiroaki Ogata and Yoneo Yano, A Language Exchange SNS in Ubiquitous Environment, Proc. of Wmute2010, pp.189-191, Kaohsiung, Taiwan, April 12-16, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-123",
+            "title": "Yoshiyuki Tabata , Chengjiu Yin, Hiroaki Ogata and Yoneo Yano, An iPhone Quiz System for Learning Foreign Languages, Proc. of International Asia Conference on Informatics in Control, Automation and Robotics 2010 (CAR2010), pp.299-302, Wuhan, China, March 6-7, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-124",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata, Hiroaki Ogata and Yoneo Yano, Building a Participation Simulation Mobile Learning Environment through Scaffolding Technique, Proc. of ICCE2009, pp.569-573, Hongkong, China, Nov.30-Dec.4, 2009.",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-125",
+            "title": "Yoshiyuki Tabata, Chengjiu Yin, Hiroaki Ogata and Yoneo Yano, Mobile Phone-based Quiz System for Learning Foreign Culture, Proc. of ICCE2009, pp.603-607, Hongkong, China, Nov.30-Dec.4, 2009.",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-126",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata and Hiroaki Ogata, Design a Context Awareness System for Japanese Language Learning in Ubiquitous Computing Environment, Proc. of International Conference on Web Information Systems and Mining, pp.454-458 , Shanghai, China, Nov 7-8, 2009 (Web of Science)",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-127",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata and Hiroaki Ogata, A Collaborative Learning Service for SNS in Ubiquitous Computing Environment, Proc. of International Conference on Wireless Communications, Networking and Mobile Computing, Vols 1-8, pp.5536-5539, Beijing, China, Sep 24-26, 2009. (Web of Science)",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-128",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata and Hiroaki Ogata, SNS-based Ubiquitous Environment for Learning Foreign Languages, Proc. of International Conference on Collaboration Technologies 2009, pp.102-107, Sydney, Australia, August 12-14, 2009.",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-129",
+            "title": "Chengjiu Yin, Yoshiyuki Tabata and Hiroaki Ogata, SONKULE: SNS based Knowledge Awareness in Ubiquitous Environment, Proc. of 2009 WASE International Conference on Information Engineering (ICIE2009), pp.176-179, Taiyuan, China, Jul.10-11, 2009. (Best Paper Award) (Web of Science)",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-130",
+            "title": "Yuqin Liu, Chengjiu Yin and Hiroaki Ogata, Supporting Q&A in a Web-based Japanese Language Learning Environment, Proc. of ICIE 2009, pp.422-425, Taiyuan, China, Jul.10-11, 2009. (Web of Science)",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-131",
+            "title": "Chengjiu Yin, Hiroaki Ogata, Yuqin Liu and Yoneo Yano, JAPELAS2: Japanese Polite Expressions Learning Assisting System in Ubiquitous Environments, Proc. of ICCE2007, pp.471-478, Hiroshima, Japan, Nov.5-9, 2007. (Web of Science)",
+            "subtitle": "",
+            "meta": "2007",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-132",
+            "title": "Hiroaki Ogata, Tomoo Kondo, Chengjiu Yin, Yuqin Liu and Yoneo Yano, Computer Supported Ubiquitous Learning Environment for Japanese Mimicry and Onomatopoeia with Sensors, Proc. of ICCE2007, pp.463-470, Hiroshima, Japan, Nov.5-9, 2007. (Web of Science)",
+            "subtitle": "",
+            "meta": "2007",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-133",
+            "title": "Chengjiu Yin, Hiroaki Ogata, Yuqin Liu, Yoneo Yano, PDA-based Languages System for Learning Japanese Polite Expression, The Supplementary Proc. of ICCE 2007 WS/DSC(MULE), Vol.1, pp.69-74, Hiroshima, Japan, 05.Nov, 2007.",
+            "subtitle": "",
+            "meta": "2007",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-134",
+            "title": "Chengjiu Yin, Hiroaki Ogata and Yoneo Yano, Participatory Simulation System to Support Learning Computer Science, Proc. of International Workshop on Mobile and Ubiquitous Learning Environments (MULE) in conjunction with ICCE2006, pp.25-32, Beijing, Nov.30-Dec.4, 2006.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-135",
+            "title": "Hiroaki Ogata, Chengjiu Yin and Yoneo Yano, JAMIOLAS: Support Japanese Mimicry and Onomatopoeia Learning with Sensors, Proc. of Wmute2006, pp.111-115, Athens, Nov.16-17, 2006. (Web of Science)",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-136",
+            "title": "Chengjiu Yin, Hiroaki Ogata and Yoneo Yano, Using Participatory Simulation Support Learning Algorithms, Proc. of mLearn 2006, Alberta, Canada, Oct.22-25, 2006.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-137",
+            "title": "Hiroaki Ogata, Chengjiu Yin, Yuqin Liu, Moushir M. El-Bishouty and Yoneo Yano, Supporting Ubiquitous Language Learning with RFID tags, Proc. of mLearn, Alberta, Canada, Oct.22-25, 2006.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-138",
+            "title": "Hiroaki Ogata, Nobuji A. Saito, Rosa G. Paredes J., Chengjiu Yin, and Yoneo Yano, Basic Support for Ubiquitous Learning Environment in the University, Proc. of CollabTech 2006, pp.102-107, Tsukuba, Japan, Jul.13-14, 2006.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-139",
+            "title": "Chengjiu Yin, Hiroaki Ogata and Yoneo Yano, Learning Japanese Polite Expression in Ubiquitous, Proc. of CollabTech 2006, pp.96-101, Tsukuba, Japan, Jul.13-14, 2006.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-140",
+            "title": "Hiroaki Ogata, Chengjiu Yin, Rosa G. Paredes J., Nobuji A. Saito, Yoneo Yano, Yasuko Oishi, Takahito Ueda : Supporting Mobile Language Learning outside Classrooms, Proc. of ICALT2006, pp.928-932, Kerkrade, Netherlands, Jul.5-7, 2006.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-141",
+            "title": "Chengjiu Yin, Hiroaki Ogata, Tomonobu Sasada, Yoneo Yano, PSSLSA: Participatory Simulation System for Learning Sorting Algorithms, Proc. of ICALT2006, pp.843-844, Kerkrade, Netherlands, Jul.5-7, 2006.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-142",
+            "title": "Chengjiu Yin, Hiroaki Ogata and Yoneo Yano, Ubiquitous-Learning System for the Japanese Polite Expressions, Proc. of IEEE International Workshop on Wireless and Mobile Technologies in Education 2005 (WMTE2005), pp.269-273, Tokushima, Nov. 2005. (Web of Science)",
+            "subtitle": "",
+            "meta": "2005",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-143",
+            "title": "Rosa G Paredes J, Hiroaki Ogata, Nobuji A Saito, Chengjiu Yin, Yoneo Yano, Yasuko Oishi and Takahito Ueda, LOCH: Supporting Informal Language Learning Outside the Classroom with Handhelds, Proc. of WMTE2005, pp.182-186, Tokushima, Nov. 2005. (Web of Science)",
+            "subtitle": "",
+            "meta": "2005",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "international-conference-144",
+            "title": "Hiroaki Ogata, Chengjiu Yin, Yoneo Yano, JAPELAS: Supporting the Learning of Japanese Polite Expressions with PDA, Proc. of ICCE2004, pp. 411-419, Melbourne, Australia, Nov.30-Dec.03, 2004",
+            "subtitle": "",
+            "meta": "2004",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "domestic-conference",
+        "title": "国内会议",
+        "icon": "内",
+        "summary": "国内学术会议发表",
+        "items": [
+          {
+            "id": "domestic-conference-1",
+            "title": "山本夏未, 康子辰,殷成久, e-bookのページ遷移におけるページ推薦システムの開発, Vol.2023-CLE-39 No.1",
+            "subtitle": "",
+            "meta": "2023",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-2",
+            "title": "白木亮也,殷成久, VR教材推薦システムの開発の提案,研究報告教育学習支援情報システム（CLE）,巻 2022-CLE-38, 号 5, p. 1-3, 発行日 2022-10-28",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-3",
+            "title": "白木亮也, 山本峻太,永野裕大, 村上遥,永野光，井上茂亮, 関口兼司，殷成久,ハプティクスデバイスとVRゴーグルを用いた中心静脈穿刺トレーニングシステムの提案, スマートライフ2022大会, 特定非営利活動法人スマートライフ学会, 2022年3月11日(学術奨励賞)",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-4",
+            "title": "Chengjiu Yin, Lung-Hsiang Wong, Wenli Chen, Bo Jiang, Asia Learning Analysis (LA) and the Development Trend of Artificial Intelligence (AI) Education, in Wong, L.-H., Cheng, H., Lin, C.-P., Huang, R., Guo, S., & Guo, J. (Eds.) (2020). Proceedings of the 24th Global Chinese Conference on Computers in Education (GCCCE 2020). Lanzhou, China: Northwest Normal University, 2-6, 2020/9.(In Chinese)",
+            "subtitle": "",
+            "meta": "2020",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-5",
+            "title": "中島 裕貴, 殷 成久, eBookの学習ログと学習スタイルの関係分析, 第30回情報処理学会教育学習支援情報システム研究会（CLE), 神戸大学, 2019-CLE-30(4),1-5, 2020年3月.",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-6",
+            "title": "殷 成久，田畑 義之，熊本 悦子，鳩野 逸生，魚崎 典子, 電子教材の閲覧ログによる閲覧パターン分析, 日本教育工学会全国大会, 島根大学, 2017.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-7",
+            "title": "魚崎 典子，米川 孝宏，殷 成久，InCircleを活用した異文化理解支援，日本教育工学会全国大会, 島根大学, 2017.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-8",
+            "title": "毛利 考佑，島田 敬士，殷 成久，魚崎 典子，金子 敬一, デジタル教科書における学習ログを利活用した教員支援システム, 日本教育工学会全国大会, 島根大学, 2017.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-9",
+            "title": "魚崎 典子, 米川 孝宏, 殷 成久, InCircleを活用した授業外でのアクティブな 相互作用の試み, JSET研究会,於信州大学，日本教育工学会研究報告集JSET17-1 pp.671-674，2017.03.04.",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-10",
+            "title": "島田 敬士, 大久保 文哉, 殷 成久, 大井 京, 小島 健太郎, 山田 政寛, 緒方 広明, 九州大学基幹教育におけるラーニングアナリティクスの研究と実践,電子情報通信学会総合大会, pp.TP-1-5, 2016.03",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-11",
+            "title": "緒方 広明, 殷 成久, 大井 京, 大久保 文哉, 島田 敬士, 小島 健太郎, 山田 政寛, 大学におけるラーニングアナリティクスに基づく授業改善と教育革新,電子情報通信学会総合大会, pp.TK-10-4, 2016.03",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-12",
+            "title": "殷 成久, 大久保 文哉, 島田 敬士, 緒方 広明, デジタル教材の学習ログを用いた学習スタイルの分析, 日本教育工学会第31回全国大会講演論文集，電気通信大学，pp.757-758，2015.09.20-23．",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-13",
+            "title": "島田敬士, 大久保文哉, 殷 成久,緒方広明, 授業外学習支援のためのデジタル教材の自動要約, 電子情報通信学技報パターン認識・メディア理解(PRMU2015-81), Vol.115, No.224,pp.91-96, 2015.09",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-14",
+            "title": "廣川佐千男，殷 成久，大久保文哉，島田敬士，緒方広明, 教育用デジタルコンテンツの学習ログの分析, 人工知能と知識処理研究会(AI),pp.31-35,AI2014-21,2014.11.27.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-15",
+            "title": "殷成久, 田畑義之,SNS の「友達の友達」を利用したモデルの提案, 大学ICT推進協議会2013年度年次大会, 幕張メッセ国際会議場, pp.138-141, 2013.12.18-20.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-16",
+            "title": "殷成久,藤村直美,新入生ＰＣ必携化講習会の実施, 大学ICT推進協議会2013年度年次大会, 幕張メッセ国際会議場, pp.57-61, 2013.12.18-20.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-17",
+            "title": "殷成久，廣川佐千男，柏原昭博，田畑義之，文献調査を支援するSNS学習環境の構築, JSiSE2013第4回研究会, 北陸先端科学技術大学院大学, pp.37-40, 2013.10.9",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-18",
+            "title": "殷成久，廣川佐千男，柏原昭博，田畑義之，緒方広明，論文の質を判断する要素の調査，日本教育工学会第29回全国大会講演論文集，秋田大学，pp.331-332，2012.9.20-23．",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-19",
+            "title": "殷成久,藤村直美,九州大学におけるPC必携化,サイエンティフィック・システム研究会(SS研)システム技術分科会,pp. 2013.08.28.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-20",
+            "title": "伊東栄典, 殷成久,中藤哲也, Flanagan B., 廣川佐千男,クラウド型教育環境での検索エンジン構築演習, 電気学会情報システム研究会, pp.1-5, 機械振興会館,東京, 2013.5.28．",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-21",
+            "title": "フラナガン・ブレンダン,殷成久, 鈴木孝彦,廣川佐千男,英作文の誤り分類の推定, 火の国情報シンポジウム（情報処理学会研究報告）, A-4-1, 熊本大学, 2013.3.14-15．",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-22",
+            "title": "猪口陽平，殷成久，廣川佐千男，TwitterからのMindMap生成，火の国情報シンポジウム（情報処理学会研究報告），C-6-2. 熊本大学, 2013.3.14-15．",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-23",
+            "title": "殷成久, 鈴木孝彦, 伊東栄典, 廣川佐千男, 組み込みシステム関連文献からの研究動向自動抽出について,第2回 Digital Archive Networkワークショップ , 九州大学,平成25年3月14日（木）",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-24",
+            "title": "殷成久，廣川佐千男，田畑義之，緒方広明， 研究動向調査のための「調べることで学ぶ」学習支援環境，日本教育工学会第28回全国大会講演論文集，長崎大学，pp.387-388，2012.9.15-17．",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-25",
+            "title": "廣川佐千男,中藤哲也, 殷成久,鈴木孝彦,橋本喜代太,料理とスイーツにおけるオノマトペの違いの分析, 第26回人工知能全国学会, 山口県自治会館,2012.06.13．",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-26",
+            "title": "呉小斌, 曾駿, 中藤哲也, 殷成久, 廣川佐千男, SNSと検索エンジンを結合したコミュニティ型探索プラットフォームの提案, 電子情報通信学会人工知能と知識処理研究会, AI2011-23 pp.37-42, 福岡(九州大学),2011.11.21．",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-27",
+            "title": "廣川 佐千男,酒井 敏彦,曾 駿,殷 成久,クロス集計による文献ファセット検索システムの提案, 情報学基礎研究会報告一般社団法人情報処理学会2011-IFAT-104(1) ,福岡,pp. 1-7. 2011.11.15.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-28",
+            "title": "田畑 義之,殷 成久, Html5を利用した授 業応答システムの構築, 大学ICT推進協議会,福岡, pp. 8-15, 2012.12.8-9.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-29",
+            "title": "殷 成久,曾俊,田畑義之,廣川佐千男, 調べることで学ぶ―学習理論と実践―, 電子情報通信学会技術研究報告教育工学研究会（ET）, pp. 55-60, 沖縄,Vol. 110, No. 273, 2011.11.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-30",
+            "title": "橋本喜代太,竹内和広,廣川佐千男,殷成久,複雑な知識モデルを利用した人間の学習プロセスシミュレーションの検討, 情報処理学会. ICS, [知能と複雑系] 2011-ICS-164(4), 1-6, 2011-10-21．",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-31",
+            "title": "呉小斌,曾駿,殷成久,中藤哲也, 廣川佐千男,ホテル情報とブログ情報のマッチングシステム,火の国情報シンポジウム,情報処理学会,B-2-1, 2011.3.8-9.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-32",
+            "title": "吉田慎一郎, 殷成久,中藤哲也, 廣川佐千男,コンポーネント単位のWeb 検索とそのランキング,火の国情報シンポジウム,情報処理学会,B-2-2,2011.3.8-9.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-33",
+            "title": "曾駿,中藤哲也,殷成久,呉小斌,廣川佐千男,概念チェーンを用いた観光ブログからの意外性発見,火の国情報シンポジウム,情報処理学会,B-2-3,2011.3.8-9.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-34",
+            "title": "廣川佐千男,殷成久,橋本喜代太,竹内和広,オノマトペに着目した食べ物ブログ検索システム,火の国情報シンポジウム,情報処理学会,B-3-1,2011.3.8-9.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-35",
+            "title": "吉田慎一郎,馬場隆寛,村上直至,清水一憲,殷成久,伊東栄典,廣川佐千男,SVMを用いたファッション推薦システムについて,火の国情報シンポジウム,情報処理学会,B-3-3,2011.3.8-9.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-36",
+            "title": "殷成久，田畑義之，緒方広明,SNSによる協調学習を支援するモバイル言語学習環境の構築，平成22年度情報教育研究集講演論文集，pp.88-91, 京都大学，2010.12.10-11.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-37",
+            "title": "殷成久,呉小斌,廣川佐千男,中藤哲也,観光イベントについての「といえば検索」の提案,電子情報通信学会人工知能と知識処理研究会（AI）,Vol. 110, No. 301, 2010.11.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-38",
+            "title": "呉小斌,廣川佐千男,殷成久,中藤哲也,田畑義之, WWWからの観光情報の抽出と比較,情報処理学会九州支部若手の会セミナー予稿集,pp7-12，2010.9",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-39",
+            "title": "田畑義之，殷 成久，緒方広明,iPhoneのための外国語学習教材作成システム，平成21年度情報教育研究集講演論文集，pp.141-144, 東北大学，2009.11.14-15.",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-40",
+            "title": "殷 成久，田畑義之，緒方広明,SNSを用いた友人間の相互協調学習環境,日本教育工学会第２５回全国大会講演論文集，東京大学，pp.293-294，2009.9.19-21．",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-41",
+            "title": "殷 成久，田畑義之, 緒方広明,SNSを用いたユビキタス協調学習システム提案，教育システム情報学会第３３回全国大会講演論文集，pp.122-123，熊本大学，2008.9.3-5.",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-42",
+            "title": "殷 成久，田畑義之，緒方広明,SNSを用いた知識アウェアネスユビキタス協調学習システム,日本教育工学会第２４回全国大会講演論文集，上越教育大学，pp.41-44，2008.10.11-13．",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-43",
+            "title": "田畑義之，殷 成久，緒方広明,携帯電話を用いたクイズ出題・集計システムの構築，平成20年度情報教育研究集講演論文集，pp.407-410, 西日本総合展示場AIM ビル3 階展示場，2008.12.12-13.",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-44",
+            "title": "Li Hui Gan, Chengjiu Yin, Hiroaki Ogata, Yoneo Yano , Knowledge Management for Language Learning Outside the Classroom with Handhelds, 電気関係学会四国支部連合大会 愛媛大学，2006.9.26.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-45",
+            "title": "近藤智央，殷 成久，緒方広明，矢野米雄,センサネットワークを用いた擬態語学習支援，教育システム情報学会第３１回全国大会講演論文集，pp.525-526，大阪経済大学，2006.8.23-25.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-46",
+            "title": "和田 誠，GanLiHui，殷 成久，緒方広明，上田崇仁，大石寧子，矢野米雄,留学生のためのモバイル日本語学習支援システムの構築，教育システム情報学会第３１回全国大会講演論文集，pp.527-528，大阪経済大学，2006.8.23-25.",
+            "subtitle": "",
+            "meta": "2006",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-47",
+            "title": "Chengjiu Yin, Hiroaki Ogata, Yoneo Yano, Study on the U-Learning System of Japanese Polite expressions, 平成17年電気関係学会四国支部連合大会講演論文集,四国電力(株)総合研究所，pp．357,2005.9.28.",
+            "subtitle": "",
+            "meta": "2005",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "domestic-conference-48",
+            "title": "緒方広明，笹田智伸，殷成久，矢野米雄,アリゴリズム学習を対象としたPDAを用いた参加型シミュレーション環境，日本科学教育学会年会論文集29，岐阜大学，pp.123-124, 2005.9.9-11.",
+            "subtitle": "",
+            "meta": "2005",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "external-funding",
+        "title": "外部研究资金",
+        "icon": "资",
+        "summary": "科研项目与资助记录",
+        "items": [
+          {
+            "id": "external-funding-1",
+            "title": "英語スピーキングにおける表現方略の習得を目的とした学習支援システムの開発(仲谷 佳恵)",
+            "subtitle": "基盤研究B / 分担者",
+            "meta": "2025～2028年度",
+            "summary": "金额：600千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-2",
+            "title": "学習状態変化や個別特性に応じた最適な教材を動的に生成するシステムの開発",
+            "subtitle": "基盤研究B / 代表者",
+            "meta": "2025～2027年度",
+            "summary": "金额：18,720 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-3",
+            "title": "個別最適化されたe-Learningコースを活用したブレンド型授業ー学習行動に着目して(小野 雄一)",
+            "subtitle": "基盤研究B / 分担者",
+            "meta": "2024～2026年度",
+            "summary": "金额：600千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-4",
+            "title": "学習ビッグデータに基づく情報リテラシー教育の学習状況分析と学習支援システムの構築(熊本 悦子)",
+            "subtitle": "基盤研究C / 分担者",
+            "meta": "2023～2025年度",
+            "summary": "金额：300千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-5",
+            "title": "内在的趣向性とオンライン学習行動データを利活用した隙間時間外国語学習支援(小野 雄一)",
+            "subtitle": "研究種目挑戦的研究(萌芽) / 分担者",
+            "meta": "2022～2024年度",
+            "summary": "金额：200千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-6",
+            "title": "教育ビッグデータを活用した学習者個人の特徴推定機能を持つ教材推薦システムの開発",
+            "subtitle": "基盤研究B / 代表者",
+            "meta": "2021～2024年度",
+            "summary": "金额：17,160 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-7",
+            "title": "学習ログシステムとeブックを活用した留学生のキャリア支援に関する研究と実践(魚崎 典子)",
+            "subtitle": "基盤研究C / 分担者",
+            "meta": "2018～2021年度",
+            "summary": "金额：150千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-8",
+            "title": "教育ビッグデータを用いた教育・学習支援のためのクラウド情報基盤の研究（代表者：緒方広明）",
+            "subtitle": "基盤研究S / 分担者",
+            "meta": "2016～2021年度",
+            "summary": "金额：800 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-9",
+            "title": "次世代教育支援のための実時間学習解析に基づく双方向型協働空間の構築と評価(島田 敬士)",
+            "subtitle": "基盤研究A / 分担者",
+            "meta": "2018～2022年度",
+            "summary": "金额：3,000 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-10",
+            "title": "教育ビックデータの解析による教材改善手法の開発と評価",
+            "subtitle": "基盤研究B / 代表者",
+            "meta": "2016～2019年度",
+            "summary": "金额：17,160 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-11",
+            "title": "ライフログ技術を用いた学習体験共有活用支援システムに関する研究（代表者：緒方広明）",
+            "subtitle": "基盤研究B / 連携者",
+            "meta": "2013～2016年度",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-12",
+            "title": "研究動向調査を支援する学習環境SNSearchの構築",
+            "subtitle": "若手研究B / 代表者",
+            "meta": "2013～2015年度",
+            "summary": "金额：2,900 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-13",
+            "title": "ＳＮＳを用いた知識アウェアネスユビキタス協調学習環境",
+            "subtitle": "若手研究B / 代表者",
+            "meta": "2009～2010年度",
+            "summary": "金额：2,600 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-14",
+            "title": "ネットワークロボットを用いた教育・学習支援環境に関する研究（代表者：緒方広明）",
+            "subtitle": "挑戦的萌芽 / 連携者",
+            "meta": "2009～2011年度",
+            "summary": "金额：0；来源：JST科学技術振興機構研究成果展開事業フィージビリティスタディ",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-15",
+            "title": "SNSによる協調学習を支援するユビキタスシステムの構築",
+            "subtitle": "探索タイプ / 代表者",
+            "meta": "2011年度",
+            "summary": "金额：1,700 千円；来源：神戸大学は大学改革推進等補助金（デジタル活用教育高度化事業）",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-16",
+            "title": "LMSの高度化と学修データ統合システムによる学修者本位の教育の実現(代表者：学長)(申請書の作成段階から参加、申請書の原稿と実施)",
+            "subtitle": "デジタルを活用した大学・高専教育高度化プラン(DX) / 分担者",
+            "meta": "2021年度",
+            "summary": "金额：70,000 千円；来源：独立行政法人 情報通信研究機構（NICT)  ソーシャル・ビッグデータ利活用・基盤技術の研究開発",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-17",
+            "title": "ビッグデータの教育分野における利活用アプリケーションの研究開発（代表者：安浦寛人）",
+            "subtitle": "課題Aソーシャル・ビッグデータ利活用アプリケーションの研究開発 / 分担者",
+            "meta": "2014～2015年度",
+            "summary": "金额：総額： 30,000 千円/年(２年目20,000千円追加) (2－4年)；来源：一般財団法人　伊藤忠兵衛基金",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-18",
+            "title": "教育ビッグデータによる学習方略の効果検証に関する研究",
+            "subtitle": "助成金 / 代表者",
+            "meta": "2017年度",
+            "summary": "金额：総額： 500千円；来源：大学内",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-19",
+            "title": "大学における先進的情報技術の活用に関する国際会議(代表者：森 雅生)",
+            "subtitle": "P＆P，G①タイプ / 分担者",
+            "meta": "2012年度",
+            "summary": "金额：1,000 千円",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "external-funding-20",
+            "title": "本学のe-Learning研究者と台湾科技大学のグループを中心とした「Learning By Searching」ワークショップを九州大学で開催し、台湾科技大学 Gwo-Jen Hwang 教授と東呉大学 Carol (Hui-Chun Chu)助教の招へい.",
+            "subtitle": "研究大学強化促進事業における研究者招聘・派遣プログラム / 代表",
+            "meta": "2013年度",
+            "summary": "金额：50万円",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "invited-panel",
+        "title": "受邀专题讨论",
+        "icon": "议",
+        "summary": "受邀专题讨论与论坛记录",
+        "items": [
+          {
+            "id": "invited-panel-1",
+            "title": "Chengjiu Yin, The Survey of Mobile Learning in Mainland China, (Discussant: Hwang G., Wong L.H., Yin C., Ogata H.), The Fourth Mobile and Ubiquitous Technologies Enhanced Learning Conference (UbiLearn2010), Tainan, Taiwan, April 12, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "invited-panel-2",
+            "title": "Chengjiu Yin, SNS based Search Engine to Support Collaborative Language Learning, (Discussant: Hirokawa S., Ogata H., Yin C.), Mobile Assisted Language Learning Panel in 科技強化語言学習SIG研討会議, National Taiwan Normal University, Taiwan, Aug. 8, 2014.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "invited-panel-3",
+            "title": "Chengjiu Yin, 日本在疫情下的数字化教育转型(DX)改革 (Japanese Educational DX under the COVID-19), a panel of the 26th Global Chinese Conference on Computers in Education (Leader: Ju-Ling Shih, Discussant: Tak-Wai Chen, Wenli Chen, Maiga Chang, Chengjiu YIN), online, May 31st, 2022. (Invited Panelist), In Chinese.",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "invited-panel-4",
+            "title": "Chengjiu Yin, AI对教育的影响及未来可能的发展方向 (The impact of AI on education and potential future development directions), a panel (Artificial Intelligence Empowers Education Innovation) of the 28th Global Chinese Conference on Computers in Education (Leader: Junjie Shang, Wenli LI Discussant: Kuo-Tung Chen, Mingxuan Chen, Shaoqing Guo, Geping LI, Chengjiu YIN), online, June 3rd, 2024. (Invited Panelist), In Chinese.",
+            "subtitle": "",
+            "meta": "2024",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "awards",
+        "title": "奖项",
+        "icon": "奖",
+        "summary": "获奖与荣誉",
+        "items": [
+          {
+            "id": "awards-1",
+            "title": "Nichia Awards, The University of Tokushima",
+            "subtitle": "",
+            "meta": "2005",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-2",
+            "title": "Encouragement Award for International Students, The University of Tokushima",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-3",
+            "title": "Best Paper Award (International Conference on Information Engineering)",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-4",
+            "title": "Best Short Paper Award (The 15th IEEE International Conference on Advanced Learning)",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-5",
+            "title": "Best Post Paper Award (IIAI International Congress on Advanced Applied Informatics)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-6",
+            "title": "APSCE Early Career Researcher Award, (Asia-Pacific Society for Computers in Education)",
+            "subtitle": "",
+            "meta": "2019",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-7",
+            "title": "Encouragement Academic Award, Society of Smart Life, 2022",
+            "subtitle": "",
+            "meta": "2022",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-8",
+            "title": "Best Learning Innovation Award (Ginger Up Award), (Learning Innovation), (for research team)",
+            "subtitle": "",
+            "meta": "2023",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-9",
+            "title": "Best Short Paper Award (International Conference on Learning Evidence and Analytics)",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "awards-10",
+            "title": "Best Post Paper Award (International Conference on Learning Evidence and Analytics)",
+            "subtitle": "",
+            "meta": "2025",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      }
+    ]
+  },
+  "recruitment": {
+    "hero": {
+      "eyebrow": "加入我们",
+      "title": "欢迎加入我们",
+      "subtitle": "在真实教育场景中，做有证据、有温度、能落地的研究与开发",
+      "description": "如果你对学习分析、教育技术设计、数据可视化、系统实现或跨学科研究协作感兴趣，欢迎与我们联系。"
+    },
+    "intro": [
+      "我们欢迎来自教育技术、计算机、数据科学、设计、人机交互等不同背景的同学和研究者加入，一起围绕真实教学与学习场景中的关键问题开展研究。",
+      "在这里，研究不会停留在概念层面，而是要真正走进课程、平台与学习过程，提出问题、构建方法、开发工具，并在现场持续验证它们是否有效。",
+      "如果你期待把想法落到系统、把观察转成证据、把研究写成可以产生影响的成果，这里会是一个适合长期投入与成长的地方。"
+    ],
+    "audience": {
+      "title": "我们在找谁",
+      "intro": "我们尤其欢迎以下类型的伙伴：",
+      "points": [
+        "对学习行为、教学设计或教育场景中的真实问题保持敏感和好奇",
+        "愿意把研究想法转化为可验证的方法、原型系统或数据分析流程",
+        "对编程、系统开发、数据分析、可视化表达等至少一个方向有持续投入意愿",
+        "能够在跨学科环境中协作，愿意把教育问题和技术能力真正连接起来",
+        "希望在国际化学术语境中开展研究，并逐步形成自己的研究主题与表达能力"
+      ],
+      "note": "我们欢迎跨专业背景与国际学生申请，也欢迎已经有项目、作品集或研究计划的同学主动联系。"
+    },
+    "growth": {
+      "title": "你将在实验室学到什么",
+      "intro": "通过参与研究、协作和真实场景验证，你会逐步建立以下几类能力：",
+      "cards": [
+        {
+          "id": "recruitment-growth-1",
+          "title": "教育系统设计与发展",
+          "items": [
+            "从真实教学问题出发，设计能够被使用的支持工具与学习流程",
+            "理解教育场景中的需求约束，并把功能设计和研究目标结合起来",
+            "在迭代中学习如何让系统真正服务课堂、课程与学习者"
+          ]
+        },
+        {
+          "id": "recruitment-growth-2",
+          "title": "数据分析与学习分析",
+          "items": [
+            "学习整理、清洗与分析教育数据，理解学习过程中的关键行为特征",
+            "掌握把数据结果转化为研究证据、反馈建议和可视化表达的方法",
+            "逐步建立用数据支持教学改进与研究判断的能力"
+          ]
+        },
+        {
+          "id": "recruitment-growth-3",
+          "title": "应用开发与原型实现",
+          "items": [
+            "把研究想法发展为可交互的原型、实验工具或在线系统",
+            "练习前后端协作、数据接口设计与研究型产品实现流程",
+            "在真实使用反馈中持续优化系统结构、交互体验与功能边界"
+          ]
+        },
+        {
+          "id": "recruitment-growth-4",
+          "title": "研究表达与国际协作",
+          "items": [
+            "学习如何组织研究问题、方法与结果，并形成清晰的学术表达",
+            "在组会、论文写作和项目合作中提升沟通、汇报与协作能力",
+            "逐步适应国际化研究环境中的长期积累与公开交流"
+          ]
+        }
+      ]
+    },
+    "callToAction": {
+      "title": "如何联系",
+      "content": "欢迎通过邮件发送简历、研究兴趣、代表性项目或论文写作样本。材料越具体，我们越容易与你开展进一步交流。",
+      "linkLabel": "查看联系方式",
+      "href": "/contact"
+    },
+    "cards": [
+      {
+        "id": "recruitment-card-1",
+        "title": "我们关注",
+        "content": "学习分析、教育技术设计、可视化、人机交互与平台实现。",
+        "linkLabel": "",
+        "href": ""
+      },
+      {
+        "id": "recruitment-card-2",
+        "title": "我们期待",
+        "content": "有动力的人\n\n→有趣的人\n→能洞察实时信息的\n→有新颖的想法，勇于挑战的人\n→想要作系统的人，或对编程感兴趣的人\n→对数据分析感兴趣的人",
+        "linkLabel": "",
+        "href": ""
+      },
+      {
+        "id": "recruitment-card-3",
+        "title": "联系路径",
+        "content": "请通过邮箱发送简历、研究兴趣和过往项目简介。",
+        "linkLabel": "联系实验室",
+        "href": "/contact"
+      }
+    ],
+    "notes": [
+      "欢迎不同学科背景的同学与合作伙伴联系。",
+      "材料中可附上个人主页、作品集或项目链接。",
+      "招募内容可在后台持续更新。"
+    ]
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Services",
+      "title": "学术服务",
+      "subtitle": "按板块展开展示",
+      "description": "与出版物页面采用一致的信息组织方式。"
+    },
+    "groups": [
+      {
+        "id": "membership",
+        "title": "Membership in Academic Societies",
+        "icon": "MSA",
+        "summary": "学会会员。",
+        "items": [
+          {
+            "id": "membership-1",
+            "title": "From 2008 JAPAN SOCIETY FOR EDUCATIONAL TECHNOLOGY (JSET)",
+            "subtitle": "",
+            "meta": "2008",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "membership-2",
+            "title": "From 2009 APSCE (Asia-Pacific Society for Computers in Education)",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "membership-3",
+            "title": "From 2009 SIG CUMTEL in APSCE",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "membership-4",
+            "title": "From 2016 Japanese Society for Information and Systems in Education(JSiSE)",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "journal-reviewer",
+        "title": "Journal Reviewer Member",
+        "icon": "JRM",
+        "summary": "期刊审稿。",
+        "items": [
+          {
+            "id": "journal-reviewer-1",
+            "title": "Interactive Learning Environments (SSCI)",
+            "subtitle": "",
+            "meta": "",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-reviewer-2",
+            "title": "Journal of Educational Technology & Society (SSCI)",
+            "subtitle": "",
+            "meta": "",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-reviewer-3",
+            "title": "Computers & Education (SSCI)",
+            "subtitle": "",
+            "meta": "",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-reviewer-4",
+            "title": "Internet Journal Distance Education Technologies (EI)",
+            "subtitle": "",
+            "meta": "",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "journal-reviewer-5",
+            "title": "Multimedia Tools and Applications (SCIE)",
+            "subtitle": "",
+            "meta": "",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "reviewed-paper",
+        "title": "Num of Reviewed Paper",
+        "icon": "NRP",
+        "summary": "审稿数量统计。",
+        "items": [
+          {
+            "id": "reviewed-paper-1",
+            "title": "Reviewed paper statistics chart",
+            "subtitle": "Num of Reviewed Paper",
+            "meta": "",
+            "summary": "The original markdown included a statistics image. Click the link to view the imported chart.",
+            "link": "/uploads/services/reviewed-paper-statistics.png",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "guest-editor",
+        "title": "Guest Editor",
+        "icon": "GED",
+        "summary": "客座编辑。",
+        "items": [
+          {
+            "id": "guest-editor-1",
+            "title": "2011, Special Issue on Int. J. Distance Education Technologies (EI)",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "guest-editor-2",
+            "title": "2012, Special Issue on Int. J. Distance Education Technologies (EI)",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "guest-editor-3",
+            "title": "2013, Special Issue on Interactive Learning Environments (SSCI)",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "guest-editor-4",
+            "title": "2016, Special Issue on Interactive Learning Environments (SSCI)",
+            "subtitle": "",
+            "meta": "2016",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "guest-editor-5",
+            "title": "2017, Special Issue on Int. J. Distance Education Technologies (EI,ESCI): Emerging Technologies to Enhance Learning",
+            "subtitle": "",
+            "meta": "2017",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "regional-editor",
+        "title": "Regional Editor",
+        "icon": "RED",
+        "summary": "区域编辑。",
+        "items": [
+          {
+            "id": "regional-editor-1",
+            "title": "International Journal of Smart Technology and Learning, IJSmartTL",
+            "subtitle": "",
+            "meta": "",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "conference-chair",
+        "title": "Conference Chair",
+        "icon": "CCH",
+        "summary": "会议主席。",
+        "items": [
+          {
+            "id": "conference-chair-1",
+            "title": "The ICCE 2015 Theme-based Sub-conference \"Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning, Hangzhou, China, Nov., 2015, Chair.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-2",
+            "title": "The ICCE 2014 Theme-based Sub-conference \"Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning, Nara, Japan,Nov., 2014, PC-Co-Chair.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-3",
+            "title": "3rd IIAI International Conference on Learning Technologies and Learning Environments, Kitakyushu, Fukuoka, Japan, August 31 - September 4, 2014, PC Chair.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-4",
+            "title": "2nd IIAI International Conference on Learning Technologies and Learning Environments, Kunibiki Messe, Matsue, Japan, August 31 - September 4, 2013, PC Chair.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-5",
+            "title": "1st IIAI International Conference on Learning Technologies and Learning Environments, Kyushu University, Fukuoka, Japan, Sep. 20-22, 2012, PC Chair.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-6",
+            "title": "WMUTE 2012/DIGITEL2012,,Kagawa, Japan, 2012.04.12～2012.04.16,DEMO Co-chair.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-7",
+            "title": "ELSM 2011(The First International workshop on Enhancing Learning with Social Media), Hongkong, China, December 8-10, 2011, PC Chair.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-8",
+            "title": "TESL2011(1st International Workshop on Technology-Enhanced Social Learning) in CPSCom 2011,PC co-chair, Dalian, China, October 19-22, 2011,PC Chair.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "conference-chair-9",
+            "title": "International Workshop on MULE (Mobile and Ubiquitous Learning Environments) in CAR2010 at Wuhan, Organizing co-chair, China, March 5, 2010, PC chair.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "program-committee",
+        "title": "Program Committee",
+        "icon": "PCM",
+        "summary": "程序委员会。",
+        "items": [
+          {
+            "id": "program-committee-1",
+            "title": "ICALT 2015 (The 14th IEEE International Conference on Advanced Learning Technologies), Hualien, Taiwan on July 7-10, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-2",
+            "title": "IIAI International Conference on Learning Technologies and Learning Environments, OKAYAMA, Japan, July. 17-20, 2015.",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-3",
+            "title": "the ICCE 2014 Theme-based Sub-conference “Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning (CUMTEL),Kyoto,Japan.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-4",
+            "title": "1st International Conference on Smart Technology based Education and Training (STET 2014), Chania, Crete, Greece, 18 – 20 June 2014",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-5",
+            "title": "ICALT 2014 (The 14th IEEE International Conference on Advanced Learning Technologies), Athens, Greece on July 7-10, 2014.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-6",
+            "title": "10th International Conference Mobile Learning 2014,PC member.",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-7",
+            "title": "The AECT International Conference on the Frontier in e-Learning Research 2013(AECT-ICFER 2013),Taichung, Taiwan, June 18-20, 2013.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-8",
+            "title": "the 17th GCCCE2013, Beijing University, Beijing, China, May 27-31, 2013.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-9",
+            "title": "the ICCE 2013 Theme-based Sub-conference “Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning (CUMTEL),Bali,Indonesia, 2013.11.18～2012.11.22.",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-10",
+            "title": "2013 International Workshop on Distance Education Technologies (DET’13) The IADIS Mobile Learning 2013 (ML 2013) Conference,PC member. Lisbon, Portugal, 14-16 March, 2013?",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "WMUTE 2012,Kagawa, Japan, 2012.04.12～2012.04.16.",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-11",
+            "title": "The IADIS Mobile Learning 2012 International Conference, Berlin, Germany, March 11-13, 2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-12",
+            "title": "GCCCE2012 \"Digital Classroom, Mobile and Ubiquitous Learning\", Tainan, Taiwan, June 2-4, 2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-13",
+            "title": "DET2012 (International Workshop on Distance Education Technologies), Miami Beach, USA, August 9-11, 2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-14",
+            "title": "Ce-Learning 2012(International Workshop on Collaboration and e-Learning), Denver, Colorado, USA, May 21-25, 2012.",
+            "subtitle": "",
+            "meta": "2012",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-15",
+            "title": "The IADIS Mobile Learning 2011 International Conference, Avila, Spain, March 10-12, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-16",
+            "title": "A Reviewer of The 2011 IEEE International Conference on Fuzzy Systems, Taipei,Taiwan, June 27-30, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-17",
+            "title": "TESL2011(1st International Workshop on Technology-Enhanced Social Learning) in CPSCom 2011, Dalian, China, October 19-22, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-18",
+            "title": "ELSM 2011(The First International workshop on Enhancing Learning with Social Media), Hongkong, China, December 8-10, 2011.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-19",
+            "title": "WMUTE 2010 (the Sixth IEEE International Conference on Wireless, Mobile and Ubiquitous Technologies in Education),Kaohsiung, Taiwan, April 12-16, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-20",
+            "title": "The IADIS Mobile Learning 2010 International Conference, Porto, Portugal, March 19-21, 2010",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-21",
+            "title": "IASK International Conference \"E-Activity and Leading Technologies 2010\", Oviedo, Spain, November 8-10,2010 (E-ALT10)",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-22",
+            "title": "CUMTEL2010(The ICCE 2010 Theme-based Sub-conference \"Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning\"), Malaysia, November 29-December 03,2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-23",
+            "title": "ICCE2010 International Workshop on \"Technology-Transformed Learning: Going Beyond the One-to-One Model, Malaysia, November 29-December 03, 2010.",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-24",
+            "title": "CollaboTech2009 (The Fifth International Conference on Collaboration Technologies 2009), Sydney, Australia, August 12-14, 2009.",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "program-committee-25",
+            "title": "CUMTEL2009(The ICCE 2009 Theme-based Sub-conference \"Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning\"), Hongkong, China, November 30-December 04,2009.",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "poster-judge",
+        "title": "Judge of Poster Session",
+        "icon": "JPS",
+        "summary": "海报评审。",
+        "items": [
+          {
+            "id": "poster-judge-1",
+            "title": "A Judge of the Best Poster Design Awards Selection Committee of the ICCE 2013",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "session-chair",
+        "title": "Session Chair",
+        "icon": "SCH",
+        "summary": "分会场主席。",
+        "items": [
+          {
+            "id": "session-chair-1",
+            "title": "The ICCE 2013 Theme-based Sub-conference \"Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning\" (CUMTEL2013).",
+            "subtitle": "",
+            "meta": "2013",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "session-chair-2",
+            "title": "ICWL 2011 Session Chair for the session \"Web 2.0 and Social Learning (2)\",2011.12.8～2011.12.10, Hongkong, China.",
+            "subtitle": "",
+            "meta": "2011",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "session-chair-3",
+            "title": "The ICCE 2010 Theme-based Sub-conference \"Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning\" (CUMTEL2010).",
+            "subtitle": "",
+            "meta": "2010",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "session-chair-4",
+            "title": "The 2009 International Conference on Web Information Systems and Mining (WISM’09).",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "session-chair-5",
+            "title": "The ICCE 2009 Theme-based Sub-conference \"Classroom, Ubiquitous, and Mobile Technologies Enhanced Learning\" (CUMTEL2009).",
+            "subtitle": "",
+            "meta": "2009",
+            "summary": "",
+            "link": "",
+            "visible": true
+          },
+          {
+            "id": "session-chair-6",
+            "title": "e-books Workshop on ICCE2015, Hangzhou, China",
+            "subtitle": "",
+            "meta": "2015",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "sig-cochair",
+        "title": "SIG Co-Chair",
+        "icon": "SIG",
+        "summary": "专题组联合主席。",
+        "items": [
+          {
+            "id": "sig-cochair-1",
+            "title": "2014 Co-chair of APSCE CUMTEL SIG (Classroom, Ubiquitous and Mobile Technologies Enhanced Learning Special Interest Group; ) (APSCE: The Asia-Pacific Society for?",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "Computers in Education; http://apsce.net)",
+            "link": "http://cumtel.weebly.com/",
+            "visible": true
+          }
+        ]
+      },
+      {
+        "id": "publicity-chair",
+        "title": "Publicity Chairs",
+        "icon": "PUB",
+        "summary": "宣传主席。",
+        "items": [
+          {
+            "id": "publicity-chair-1",
+            "title": "The 8th FTRA International Conference on Multimedia and Ubiquitous Engineering (MUE 2014), Publicity Chair, Zhangjiajie, China, May 28-31, 2014",
+            "subtitle": "",
+            "meta": "2014",
+            "summary": "",
+            "link": "",
+            "visible": true
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "联系方式",
+      "subtitle": "",
+      "description": "欢迎通过邮件或电话与实验室联系。"
+    },
+    "methods": [
+      {
+        "id": "contact-email",
+        "label": "邮箱",
+        "value": "lab@example.edu.cn",
+        "note": "建议同时附上研究兴趣与相关材料"
+      },
+      {
+        "id": "contact-address",
+        "label": "地址",
+        "value": "",
+        "note": "校内访客请提前邮件预约"
+      }
+    ],
+    "mapImage": "/uploads/contact/chatgpt-image-2026-5-7-13-04-29-1778130286648.png",
+    "mapAlt": "实验室位置地图占位图",
+    "transitTitle": "到访提示",
+    "transitText": [
+      "地铁与公交均可到达校区，建议到访前邮件确认具体时间。",
+      "如果需要进行项目交流或参观，请提前与实验室成员联系。"
+    ]
+  }
+}

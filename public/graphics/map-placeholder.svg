@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 680" fill="none">
+  <rect width="960" height="680" rx="42" fill="#ece2cf"/>
+  <path d="M120 96v488M320 80v520M520 96v488M720 80v520M840 96v488" stroke="#ceb48f" stroke-width="4"/>
+  <path d="M84 164h792M84 312h792M84 456h792M84 584h792" stroke="#ceb48f" stroke-width="4"/>
+  <path d="M156 552c98-182 228-302 388-332 124-24 240 20 332 132" stroke="#8d643d" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="536" cy="292" r="46" fill="#8d643d"/>
+  <circle cx="536" cy="292" r="18" fill="#f7f2e8"/>
+  <text x="536" y="128" text-anchor="middle" fill="#5b3d26" font-size="40" font-family="Source Han Serif SC, Noto Serif SC, serif">
+    Campus Map
+  </text>
+</svg>
