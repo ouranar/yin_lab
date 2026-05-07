@@ -1,8 +1,11 @@
 .next
 node_modules
+
 .env
 .env.local
+
 *.log
 *.tsbuildinfo
+
 .tmp-*.txt
 publication-extract.txt

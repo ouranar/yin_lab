@@ -1,50 +1,21 @@
-# Lab Showcase
+# yin_lab
 
-## 给别人压缩包后怎么打开
+Yin Lab 实验室官网项目，基于 Next.js 开发，支持前台展示与本地内容管理后台。
 
-1. 先安装 `Node.js`
-2. 解压项目压缩包
-3. 进入项目目录
-4. 执行下面命令
+## 本地开发
 
 ```powershell
-cd D:\html2023_2
 npm.cmd install
 npm.cmd run dev
 ```
 
-5. 在浏览器打开 `http://localhost:3000`
-
-说明：
-
-- 这是 `Next.js` 项目，不是直接双击 `html` 就能打开的静态文件
-- 第一次运行必须先执行 `npm.cmd install`
-- 开发模式下，默认后台密码是 `lab-admin`
-
-## 本机开发
-
-如果你自己要在本机长期维护，建议先复制环境变量文件：
-
-```powershell
-Copy-Item .env.example .env.local
-```
-
-然后在 `.env.local` 中配置：
+浏览器打开：
 
 ```text
-LAB_ADMIN_PASSWORD=your-password
-LAB_SESSION_SECRET=your-session-secret
+http://localhost:3000
 ```
 
-再启动：
-
-```powershell
-npm.cmd run dev
-```
-
-## 生产运行
-
-如果你要放到服务器上正式运行：
+## 生产构建
 
 ```powershell
 npm.cmd install
@@ -52,27 +23,22 @@ npm.cmd run build
 npm.cmd start
 ```
 
-浏览器访问：
+## 后台
+
+- 登录页：`/admin/login`
+- 管理页：`/admin`
+- 开发环境默认密码：`lab-admin`
+
+建议通过 `.env.local` 配置正式环境密码与会话密钥：
 
 ```text
-http://localhost:3000
-```
-
-生产环境必须配置：
-
-```text
-LAB_ADMIN_PASSWORD
-LAB_SESSION_SECRET
+LAB_ADMIN_PASSWORD=your-password
+LAB_SESSION_SECRET=your-session-secret
 ```
 
 ## 内容文件
 
-- 站点内容：`content/site-content.json`
-- 新闻归档：`content/archives/`
+- 主数据：`content/site-content.json`
 - 上传图片：`public/uploads/`
-- 后台登录：`/admin/login`
-- 后台管理：`/admin`
+- 新闻归档：`content/archives/`
 
-## 密码： 
-
-Lab-admin
