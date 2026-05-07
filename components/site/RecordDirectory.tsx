@@ -1,24 +1,27 @@
 import Link from "next/link";
+import { defaultSiteLocale, getSiteUiText, type SiteLocale } from "@/lib/i18n";
 import type { RecordGroup } from "@/types/site";
 
 type RecordDirectoryProps = {
   groups: RecordGroup[];
+  locale?: SiteLocale;
 };
 
-export function RecordDirectory({ groups }: RecordDirectoryProps) {
+export function RecordDirectory({ groups, locale = defaultSiteLocale }: RecordDirectoryProps) {
   const visibleGroups = groups
     .map((group) => ({
       ...group,
       items: group.items.filter((item) => item.visible !== false),
     }))
     .filter((group) => group.items.length > 0);
+  const ui = getSiteUiText(locale);
 
   return (
     <div className="record-directory">
       <aside className="record-directory__sidebar">
         <div className="record-directory__sidebar-card">
-          <p className="record-directory__eyebrow">栏目导航</p>
-          <nav className="record-directory__nav" aria-label="出版物分组导航">
+          <p className="record-directory__eyebrow">{ui.publications.sectionNavigation}</p>
+          <nav className="record-directory__nav" aria-label={ui.publications.navAriaLabel}>
             {visibleGroups.map((group) => (
               <a key={group.id} className="record-directory__nav-link" href={`#${group.id}`}>
                 <span className="record-directory__nav-main">
@@ -42,7 +45,7 @@ export function RecordDirectory({ groups }: RecordDirectoryProps) {
               <div className="record-section__title">
                 <span className="record-section__icon">{group.icon}</span>
                 <div>
-                  <p className="record-section__eyebrow">{group.items.length} 条记录</p>
+                  <p className="record-section__eyebrow">{ui.publications.recordsCount(group.items.length)}</p>
                   <h2>{group.title}</h2>
                   {group.summary ? <p>{group.summary}</p> : null}
                 </div>
@@ -59,7 +62,7 @@ export function RecordDirectory({ groups }: RecordDirectoryProps) {
                     {item.summary ? <p className="record-entry__summary">{item.summary}</p> : null}
                     {item.link ? (
                       <Link className="record-entry__link" href={item.link} target="_blank">
-                        查看来源
+                        {ui.publications.viewSource}
                       </Link>
                     ) : null}
                   </div>

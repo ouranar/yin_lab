@@ -1,18 +1,8 @@
+import { defaultSiteLocale, formatLocaleDate, type SiteLocale } from "@/lib/i18n";
+
 export const classNames = (...parts: Array<string | false | null | undefined>) => parts.filter(Boolean).join(" ");
 
-export const formatDate = (value: string) => {
-  const date = new Date(value);
-
-  if (Number.isNaN(date.getTime())) {
-    return value;
-  }
-
-  return new Intl.DateTimeFormat("zh-CN", {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-  }).format(date);
-};
+export const formatDate = (value: string, locale: SiteLocale = defaultSiteLocale) => formatLocaleDate(value, locale);
 
 export const splitParagraphs = (value: string[] = []) => value.filter((item) => item.trim().length > 0);
 

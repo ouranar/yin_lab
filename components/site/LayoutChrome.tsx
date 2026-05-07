@@ -1,6 +1,7 @@
 "use client";
 
 import { usePathname } from "next/navigation";
+import { getLocaleFromPathname, getShellFooterNote, getShellLabName } from "@/lib/i18n";
 import { SiteFooter } from "@/components/site/SiteFooter";
 import { SiteHeader } from "@/components/site/SiteHeader";
 import type { NavItem } from "@/types/site";
@@ -24,6 +25,7 @@ export function LayoutChrome({
 }: LayoutChromeProps) {
   const pathname = usePathname();
   const isAdminRoute = pathname.startsWith("/admin");
+  const locale = getLocaleFromPathname(pathname);
 
   if (isAdminRoute) {
     return <div className="page-shell">{children}</div>;
@@ -31,9 +33,16 @@ export function LayoutChrome({
 
   return (
     <div className="page-shell">
-      <SiteHeader adminLabel={adminLabel} labName={labName} navigation={navigation} shortName={shortName} />
+      <SiteHeader
+        adminLabel={adminLabel}
+        labName={labName}
+        locale={locale}
+        navigation={navigation}
+        pathname={pathname}
+        shortName={shortName}
+      />
       <main className="page-main">{children}</main>
-      <SiteFooter footerNote={footerNote} labName={labName} />
+      <SiteFooter footerNote={getShellFooterNote(locale) || footerNote} labName={getShellLabName(locale) || labName} />
     </div>
   );
 }
