@@ -1,10 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { useRouter } from "next/navigation";
 
 export function AdminLoginForm() {
-  const router = useRouter();
   const [password, setPassword] = useState("");
   const [status, setStatus] = useState("");
   const [submitting, setSubmitting] = useState(false);
@@ -30,8 +28,7 @@ export function AdminLoginForm() {
         return;
       }
 
-      router.push("/admin");
-      router.refresh();
+      window.location.assign("/admin");
     } catch (error) {
       console.error(error);
       setStatus("登录失败，请稍后重试");
