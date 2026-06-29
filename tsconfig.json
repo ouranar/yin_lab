@@ -28,10 +28,6 @@
   ],
   "exclude": [
     "node_modules",
-    ".next",
-    "app",
-    "components",
-    "lib",
-    "types"
+    "dist"
   ]
 }
