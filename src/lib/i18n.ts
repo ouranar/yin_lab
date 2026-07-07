@@ -57,12 +57,6 @@ const shellFooterNotes: Record<SiteLocale, string> = {
   ja: "知能教育、デジタル学習、モバイル学習、学習分析を通して、教育と学びの未来を切り拓きます。",
 };
 
-const shellAdminLabels: Record<SiteLocale, string> = {
-  zh: "管理",
-  en: "Admin",
-  ja: "管理",
-};
-
 export type SiteUiText = {
   home: {
     researchEyebrow: string;
@@ -330,7 +324,6 @@ export const getShellLabName = (locale: SiteLocale) => shellLabNames[locale];
 
 export const getShellFooterNote = (locale: SiteLocale) => shellFooterNotes[locale];
 
-export const getShellAdminLabel = (locale: SiteLocale) => shellAdminLabels[locale];
 
 export const getShellNavigationLabel = (locale: SiteLocale, href: string, fallback: string) =>
   shellNavigationLabels[locale][removeLocalePrefix(href)] ?? fallback;

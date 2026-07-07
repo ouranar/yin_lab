@@ -161,7 +161,6 @@ export type SiteData = {
     shortName: string;
     description: string;
     footerNote: string;
-    adminLabel: string;
     newsArchiveMonths: number;
     minimumNewsItems: number;
   };
